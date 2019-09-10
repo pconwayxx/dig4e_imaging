@@ -1207,7 +1207,7 @@ best practices for creating digital still images from photographic and graphic s
 },
 {
     "title": "Future of Digital Imaging",
-    "anchor": "future",
+    "anchor": "future-of-digital-imaging",
     "icon" : "fa-clone",
     "description": "We consider the technical trends that are changing digital imaging.",
     "slides": "lectures/03_rd.zip",
