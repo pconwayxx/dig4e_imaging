@@ -19,7 +19,7 @@
     "title": "Vision and Digital Imaging",
     "anchor": "vision-and-digital-imaging",
     "icon" : "fa-clone",
-    "description": "We learn about the relationship between visual perception and the binary encoding of light.",
+    "description": "We learn about visual perception and the digital encoding of reflected light.",
     "slides": "lectures/01_html5.zip",
     "references" : [
         {
@@ -100,10 +100,10 @@
     ]
 },
 {
-    "title": "Imaging Overview",
-    "anchor": "imaging-overview",
+    "title": "Imaging Standards Overview",
+    "anchor": "imaging-standards-overview",
     "icon" : "fa-clone",
-    "description": "We learn about the international structure of imaging standards, guidelines, and ethics for producing archival master images.",
+    "description": "We learn about the state of international imaging standards and guidelines.",
     "slides": "lectures/02_html5.zip",
     "references" : [
         {
@@ -321,8 +321,8 @@
     ]
 },
 {
-    "title": "Imaging Hardware Options",
-    "anchor": "imaging-hardware-options",
+    "title": "Imaging Technology Options",
+    "anchor": "imaging-technology-options",
     "icon" : "fa-clone",
     "description": "We learn about the fundamentals of scanners, viewing conditions, and lighting.",
     "slides": "lectures/01_css3.zip",
@@ -430,10 +430,10 @@
     ]
 },
 {
-    "title": "Imaging Software",
-    "anchor": "imaging-software",
+    "title": "Imaging Workflow",
+    "anchor": "imaging-workflow",
     "icon" : "fa-clone",
-    "description": "We learn how to operate scan control software and the roles that software tools play in digitization workflows.",
+    "description": "We consider imaging procedures and the ethics of producing archival quality images.",
     "slides": "lectures/02_css3.zip",
     "references" : [
         {
@@ -543,10 +543,10 @@
     ]
 },
 {
-    "title": "Outsourcing Digital Imaging",
-    "anchor": "outsourcing-digital-imaging",
+    "title": "System Performance",
+    "anchor": "system-performance",
     "icon" : "fa-clone",
-    "description": "We learn how to discuss digital imaging with third-party vendors.",
+    "description": "We explore assessing imaging system capabilities using standardized test charts.",
     "slides": "lectures/03_css3.zip",
     "references" : [
         {
@@ -615,10 +615,10 @@
     ]
 },
 {
-    "title": "Error and System Performance",
-    "anchor": "error-and-system-performance",
+    "title": "Bits and Bitmaps",
+    "anchor": "bits-and-bitmaps",
     "icon" : "fa-clone",
-    "description": "We explore an ontology of imaging error and learn how to test imaging system performance using standardized test targets and OpenDICE software.",
+    "description": "We learn about specifying and measuring resolution and bit depth.",
     "slides": "lectures/04_css3.zip",
     "references" : [
         {
@@ -695,10 +695,10 @@
     ]
 },
 {
-    "title": "Resolution",
-    "anchor": "resolution",
+    "title": "Tone Response",
+    "anchor": "tone-response",
     "icon" : "fa-clone",
-    "description": "We learn about Spatial Frequency Response and how to measure the capabilities of scanning equipment to meet quality expectations.",
+    "description": "We learn about assessing image tone/exposure and white balance/neutrality.",
     "slides": "lectures/01_js.zip",
     "references" : [
         {
@@ -799,10 +799,10 @@
     ]
 },
 {
-    "title": "Tone Response",
-    "anchor": "tone-response",
+    "title": "Color Accuracy",
+    "anchor": "color-accuracy",
     "icon" : "fa-clone",
-    "description": "We learn about the Opto-Electronic Conversion Function (OECF) for image tone/exposure and white balance/neutrality.",
+    "description": "We introduce the fundamentals of visible color spaces and color encoding accuracy.",
     "slides": "lectures/02_js.zip",
     "references" : [
         {
@@ -888,10 +888,10 @@
     ]
 },
 {
-    "title": "Color Accuracy",
-    "anchor": "color-accuracy",
+    "title": "Image File Formats",
+    "anchor": "image-file-formats",
     "icon" : "fa-clone",
-    "description": "We introduce Delta E and the fundamentals of visible color space and learn how to estimate the accuracy of color encoding.",
+    "description": "We learn about the TIFF and JPEG2000 file formats.",
     "slides": "lectures/03_js.zip",
     "references" : [
         {
@@ -968,10 +968,10 @@
     ]
 },
 {
-    "title": "Archival Image File Formats",
-    "anchor": "archival-image",
+    "title": "Image Processing",
+    "anchor": "image-processing",
     "icon" : "fa-clone",
-    "description": "We learn about the TIFF and JPEG2000 file formats.",
+    "description": "We explore ethics and techniques for normalizing master images and producing derivatives.",
     "slides": "lectures/04_js.zip",
     "references" : [
         {
@@ -1044,10 +1044,10 @@
     ]
 },
 {
-    "title": "Post-scan Image Processing",
-    "anchor": "post-scan",
+    "title": "Image Metadata Standards",
+    "anchor": "image-metadata-standards",
     "icon" : "fa-clone",
-    "description": "We explore the ethics and procedures surrounding the normalization of archival masters and the production of derivatives.",
+    "description": "We learn to document the technical features of digital images.",
     "slides": "lectures/01_rd.zip",
     "references" : [
         {
@@ -1140,10 +1140,10 @@
     ]
 },
 {
-    "title": "Image Metadata Standards",
-    "anchor": "image-metadata-standards",
+    "title": "Costs and Outsourcing",
+    "anchor": "costs-and-outsourcing",
     "icon" : "fa-clone",
-    "description": "We learn about documenting the technical features of images inside and outside the file.",
+    "description": "We learn how to estimate imaging costs and work with third-party vendors.",
     "slides": "lectures/02_rd.zip",
     "references" : [
         {
