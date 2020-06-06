@@ -545,12 +545,32 @@
 {
     "title": "System Performance",
     "anchor": "system-performance",
+<<<<<<< HEAD
     "icon" : "fa-clone",
     "description": "We explore assessing imaging system capabilities using standardized test charts.",
     "slides": "lectures/03_css3.zip",
     "references" : [
+=======
+    "icon" : "icons/Imaging/imaging_lu_seven.png",
+    "description": "We explore assessing imaging system capabilities using standardized test charts.",
+    "Lectures with Slides": [
+        {   
+            "title" : "FADGI Digital Imaging Framework 2009"
+            "href" : "https://www.youtube.com/watch?v=Zx6gr_Ch9x8"
+        },
+        {   
+            "title" : "Establishing quality levels"
+            "href" : "https://www.youtube.com/watch?v=Zx6gr_Ch9x8"
+        },
+         {   
+            "title" : "When good scanning goes bad"
+            "href" : "https://www.youtube.com/watch?v=Zx6gr_Ch9x8"
+        },
+        ]
+    "Resources" : [
+>>>>>>> b2f7739341d221839ff532fef6c95051b090120c
         {
-            "title" : "Document: Resources",
+            "title" : "<span style="color: #555555;"><a style="color: #555555;" href="http://dig4e.sites.uofmhosting.net/wp-content/uploads/2020/05/Williams-Burns-ImageLiterateDecade_2009.pdf" target="_blank" rel="noopener"><span style="font-weight: 400;"><img class="wp-image-857 alignleft" src="http://dig4e.sites.uofmhosting.net/wp-content/uploads/2020/04/document-2.png" alt="" width="30" height="20" />Don Williams &amp; Peter D. Burns. 2009. “Preparing for the Image Literate Decade.” </span><i><span style="font-weight: 400;">IS&amp;T Archiving 2009 Proceedings</span></i><span style="font-weight: 400;">. 4 pages. PDF </span></a></span>",
             "href" : "pages/css3/17_resources3.php"
         },
         {
