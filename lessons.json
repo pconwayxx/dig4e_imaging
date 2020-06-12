@@ -433,7 +433,7 @@
     "title": "Imaging Workflow",
     "anchor": "imaging-workflow",
     "icon" : "fa-clone",
-    "description": "We consider imaging procedures and the ethics of producing archival quality images.",
+    "description": "We consider imaging procedures and the ethics of producing archival quality images",
     "slides": "lectures/02_css3.zip",
     "references" : [
         {
