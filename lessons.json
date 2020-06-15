@@ -207,7 +207,7 @@
     "title": "Physical Care and Handling",
     "anchor": "physical-care-and-handling",
     "icon" : "fa-clone",
-    "description": "We learn about handling materials safely and discuss some myths about light exposure.",
+    "description": "We learn about handling materials safely and discuss myths about light exposure.",
     "slides": "lectures/03_html5.zip",
     "references" : [
         {
