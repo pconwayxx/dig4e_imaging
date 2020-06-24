@@ -20,19 +20,32 @@
     "anchor": "vision-and-digital-imaging",
     "icon" : "fa-clone",
     "description": "We learn about visual perception and the digital encoding of reflected light.",
-    "slides": "lectures/01_html5.zip",
+    "slides": [
+        {
+            "title" : "Visual Foundations",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        ],
     "references" : [
         {
-            "title" : "Document: Syllabus",
-            "href" : "pages/html5/01_syllabus.php"
+            "title" : "ISO 19262:2015 Photography – Archiving Systems – Vocabulary ",
+            "href" : "https://www.iso.org/obp/ui/#iso:std:iso:19262:ed-1:v1:en"
         },
         {
-            "title" : "Video: Introduction to HTML5",
-            "href" : "https://www.coursera.org/learn/html/lecture/Ilm91/01-01-welcome-to-introduction-to-html5"
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI) Glossary",
+            "href" : "http://www.digitizationguidelines.gov/glossary.php"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to HTML5",
-            "href" : "lectures/01_html5/01_01-intro_to_html.pdf"
+            "title" : "Howard Besser. Introduction to Imaging, Revised Edition. Getty Research Institute. 2003",
+            "href" : "https://www.getty.edu/research/publications/electronic_publications/introimages/index.html"
         },
         {
             "title" : "Document: Required Materials",
