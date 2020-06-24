@@ -20,7 +20,7 @@
     "anchor": "vision-and-digital-imaging",
     "icon" : "fa-clone",
     "description": "We learn about visual perception and the digital encoding of reflected light.",
-    "slides": [
+    "Lectures with slides": [
         {
             "title" : "Visual Foundations",
             "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
@@ -34,7 +34,7 @@
             "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
         ],
-    "references" : [
+    "References" : [
         {
             "title" : "ISO 19262:2015 Photography – Archiving Systems – Vocabulary ",
             "href" : "https://www.iso.org/obp/ui/#iso:std:iso:19262:ed-1:v1:en"
@@ -53,6 +53,12 @@
         },
         {
             "title" : "Appendix: Wikipedia Resources",
+            "href" : "pages/html5/03_optional.php"
+        }
+    ],
+    "Assignment" : [
+        {
+            "title" : "Assignment: Compare and contrast the FADGI and ISO glossaries",
             "href" : "pages/html5/03_optional.php"
         }
     ],
