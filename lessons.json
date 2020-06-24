@@ -86,11 +86,11 @@
     "references" : [
         {
             "title" : "ISO 19264-1: 2017. Image quality analysis. Excerpts: Introduction, Sec. 1, Sec. 2, Sec. 3. PDF",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "href" : "lectures/02-imaging_standards_overview/ISO19264-2017-intro-Sec3.pdf"
         },
         {
             "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 7-12. PDF",
-            "href" : "lectures/02_html5/02_01-DOM.pdf"
+            "href" : "lectures/02-imaging_standards_overview/FADGI-2016-7-12.pdf"
         },
         {
             "title" : "Metamorfoze v 2.0 (forthcoming from Netherlands KB)",
@@ -98,23 +98,23 @@
         },
         {
             "title" : "Image Access GmbH. Quality Controlled Scanning: Frequently Asked Questions. 2017. PDF",
-            "href" : "https://www.coursera.org/learn/html/lecture/m1BQg/02-02-html5-tags-and-syntax"
+            "href" : "lectures/02-imaging_standards_overview/image-access-gmbh-2017.pdf"
         },
         {
             "title" : "Mats Dahlstrom. 2010. “Critical Editing and Critical Digitization.” In Text Comparison and Digital Creativity: The Production of Presence and Meaning in Digital Text Scholarship, edited by W. Th. Van Peursen, Ernst Thoutenhoofd, and Adriaan van der Weel. Brill, pp. 80-97. PDF",
-            "href" : "lectures/02_html5/02_02-html_tags_and_syntax.pdf"
+            "href" : "lectures/02-imaging_standards_overview/dahlstrom-critical-digitization-2010.pdf"
         },
         {
             "title" : "Dietmar Wueller & Ulla Bøgvad Kesjer. “Standardization of Image Quality Analysis – ISO 19264.” IS&T Archiving 2016 Final Program and Proceedings. April 2016, 111-116. PDF",
-            "href" : "pages/html5/09_cheatsheet.php"
+            "href" : "lectures/02-imaging_standards_overview/wueller-kesjer-standardization-of-image-quality-analysis-2016.pdf"
         },
         {
             "title" : "W. Scott Geffert. “Transitioning to International Imaging Standards at the Metropolitan Museum of Art's Photograph Studio.” IS&T Archiving 2011 Final Program and Proceedings, 205-210. PDF",
-            "href" : "https://www.coursera.org/learn/html/lecture/riOKu/02-03-semantic-tags"
+            "href" : "lectures/02-imaging_standards_overview/geffert-transitioning-to-international-imaging-standards-2011.pdf"
         },
         {
             "title" : "Don Williams. “A Decade of Experience with Digital Imaging Performance Guidelines.” IS&T Archiving 2017 Final Program and Proceedings, 165-169. PDF",
-            "href" : "lectures/02_html5/02_03-semantic_html_tags.pdf"
+            "href" : "lectures/02-imaging_standards_overview/williams-decade-of-experience-2017.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
