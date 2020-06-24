@@ -69,95 +69,56 @@
     "anchor": "imaging-standards-overview",
     "icon" : "fa-clone",
     "description": "We learn about the state of international imaging standards and guidelines.",
-    "slides": "lectures/02_html5.zip",
-    "references" : [
+    "slides": [
         {
-            "title" : "Video: The Document Object Model [DOM]",
+            "title" : "What is FADGI?",
             "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: The Document Object Model [DOM]",
+            "title" : "ISO imaging standards past and present",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+        },
+        {
+            "title" : "Balancing standards, guidelines, and local practice @ scale",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+        }
+     ],
+    "references" : [
+        {
+            "title" : "ISO 19264-1: 2017. Image quality analysis. Excerpts: Introduction, Sec. 1, Sec. 2, Sec. 3. PDF",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+        },
+        {
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 7-12. PDF",
             "href" : "lectures/02_html5/02_01-DOM.pdf"
         },
         {
-            "title" : "Document: Readings",
+            "title" : "Metamorfoze v 2.0 (forthcoming from Netherlands KB)",
             "href" : "pages/html5/08_w2readings.php"
         },
         {
-            "title" : "Video: HTML5 Tags and Syntax",
+            "title" : "Image Access GmbH. Quality Controlled Scanning: Frequently Asked Questions. 2017. PDF",
             "href" : "https://www.coursera.org/learn/html/lecture/m1BQg/02-02-html5-tags-and-syntax"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: HTML5 Tags and Syntax",
+            "title" : "Mats Dahlstrom. 2010. “Critical Editing and Critical Digitization.” In Text Comparison and Digital Creativity: The Production of Presence and Meaning in Digital Text Scholarship, edited by W. Th. Van Peursen, Ernst Thoutenhoofd, and Adriaan van der Weel. Brill, pp. 80-97. PDF",
             "href" : "lectures/02_html5/02_02-html_tags_and_syntax.pdf"
         },
         {
-            "title" : "Document: Cheatsheets",
+            "title" : "Dietmar Wueller & Ulla Bøgvad Kesjer. “Standardization of Image Quality Analysis – ISO 19264.” IS&T Archiving 2016 Final Program and Proceedings. April 2016, 111-116. PDF",
             "href" : "pages/html5/09_cheatsheet.php"
         },
         {
-            "title" : "Video: Semantic Tags",
+            "title" : "W. Scott Geffert. “Transitioning to International Imaging Standards at the Metropolitan Museum of Art's Photograph Studio.” IS&T Archiving 2011 Final Program and Proceedings, 205-210. PDF",
             "href" : "https://www.coursera.org/learn/html/lecture/riOKu/02-03-semantic-tags"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Semantic Tags",
+            "title" : "Don Williams. “A Decade of Experience with Digital Imaging Performance Guidelines.” IS&T Archiving 2017 Final Program and Proceedings, 165-169. PDF",
             "href" : "lectures/02_html5/02_03-semantic_html_tags.pdf"
         },
         {
-            "title" : "Video: Template Page",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "https://www.coursera.org/learn/html/lecture/6YX4i/02-04-template-page"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Tempalate Page",
-            "href" : "lectures/02_html5/02_04-template_page.pdf"
-        },
-        {
-            "title" : "Video: Images",
-            "href" : "https://www.coursera.org/learn/html/lecture/NxaOr/02-05-images"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Images",
-            "href" : "lectures/02_html5/02_05-images.pdf"
-        },
-        {
-            "title" : "Document: Alternative Text",
-            "href" : "pages/html5/11_alternative.php"
-        },
-        {
-            "title" : "Video: Font Awesome Demo",
-            "href" : "https://www.coursera.org/learn/html/lecture/m4NI3/font-awesome-demo"
-        },
-        {
-            "title" : "Video: Hyperlinks",
-            "href" : "https://www.coursera.org/learn/html/lecture/7Wvrg/02-06-hyperlinks"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Hyperlinks",
-            "href" : "lectures/02_html5/02_06-hyperlinks.pdf"
-        },
-        {
-            "title" : "Video: Multimedia",
-            "href" : "https://www.coursera.org/learn/html/lecture/CIR2e/02-07-multimedia"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Multimedia",
-            "href" : "lectures/02_html5/02_07-multimedia.pdf"
-        },
-        {
-            "title" : "Video: Tables",
-            "href" : "https://www.coursera.org/learn/html/lecture/HtqUe/02-08-tables"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Tables",
-            "href" : "lectures/02_html5/02_08-tables.pdf"
-        },
-        {
-            "title" : "Video: Useful Tags",
-            "href" : "https://www.coursera.org/learn/html/lecture/blrRu/02-09-useful-tags"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Useful Tags",
-            "href" : "lectures/02_html5/02_09-useful_tags.pdf"
         }
     ],
     "lti" : [
