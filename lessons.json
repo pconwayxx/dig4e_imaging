@@ -134,103 +134,36 @@
     "anchor": "physical-care-and-handling",
     "icon" : "fa-clone",
     "description": "We learn about handling materials safely and discuss myths about light exposure.",
-    "slides": "lectures/03_html5.zip",
-    "references" : [
+    "slides": [
         {
-            "title" : "Video: Accessibility",
-            "href" : "https://www.coursera.org/learn/html/lecture/d6Pha/03-01-accessibility"
+            "title" : "Preservation storage",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Accessibility",
+            "title" : "Physical work environment",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+        },
+        {
+            "title" : "Care and handling in the digitization workflow",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+        }
+     ],
+    "references" : [
+        {
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 14-17, 52-53. PDF",
+            "href" : "lectures/03-physical_care_and_handling/FADGI-2016-14-17-52-53.pdf"
+        },
+        {
+            "title" : "Peter Z. Adelstein. IPI Media Storage Quick Reference, 2nd edition. Rochester: Image Permanence Institute, 2009.PDF",
             "href" : "lectures/03_html5/03_01-accessible_web.pdf"
         },
         {
-            "title" : "Document: Does Your Browser Support Assessibility?",
-            "href" : "pages/html5/12_assessibility.php"
+            "title" : "Library of Congress. Preservation. Collections Care. Digitization Guidelines.",
+            "href" : "https://www.loc.gov/preservation/care/scan.html"
         },
         {
-            "title" : "Video: Validating Your Site",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "https://www.coursera.org/learn/html/lecture/5HnFB/03-02-validating-your-site"
-        },
-        {
-            "title" : "Video: Wave",
-            "href" : "https://www.coursera.org/learn/html/lecture/WqvSN/03-02a-wave"
-        },
-        {
-            "title" : "Video: Funkify",
-            "href" : "https://www.coursera.org/learn/html/lecture/afqDD/03-02b-funkify"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Validating Your Site",
-            "href" : "lectures/03_html5/03_02-validating.pdf"
-        },
-        {
-            "title" : "Document: Putting Your Code Out on the Web",
-            "href" : "pages/html5/13_web.php"
-        },
-        {
-            "title" : "Video: Hosting Your Site",
-            "href" : "https://www.coursera.org/learn/html/lecture/rEN7t/03-03-hosting-your-site"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Hosting Your Site",
-            "href" : "lectures/03_html5/03_03-hosting.pdf"
-        },
-        {
-            "title" : "Video: cPanel",
-            "href" : "https://www.coursera.org/learn/html/lecture/Ct8Hy/03-04-cpanel"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: cPanel",
-            "href" : "lectures/03_html5/03_04-cPanel.pdf"
-        },
-        {
-            "title" : "Video: Creating a GitHub Pages Account",
-            "href" : "https://www.coursera.org/learn/html/lecture/COiCQ/3-04a-creating-a-github-pages-account"
-        },
-        {
-            "title" : "Video: Uploading to GitHub Pages Account",
-            "href" : "https://www.coursera.org/learn/html/lecture/4dOi4/3-04b-uploading-to-github-pages-account"
-        },
-        {
-            "title" : "Video: Using Secure File Transfer Protocol",
-            "href" : "https://www.coursera.org/learn/html/lecture/oJyXt/03-05-using-secure-file-transfer-protocol"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Using Secure File Transfer Protocol",
-            "href" : "lectures/03_html5/03_05-SFTP.pdf"
-        },
-        {
-            "title" : "Document: Final Project Description",
-            "href" : "pages/html5/14_project.php"
-        },
-        {
-            "title" : "Video: Final Project Demo",
-            "href" : "https://www.coursera.org/learn/html/lecture/iFxeJ/03-06-final-project-demo"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Final Project Demo",
-            "href" : "lectures/03_html5/03_06-final_project.pdf"
-        },
-        {
-            "title" : "Document: The Final Exam has changed",
-            "href" : "pages/html5/15_exam.php"
-        },
-        {
-            "title" : "Document: Congratulations!",
-            "href" : "pages/html5/16_congratulations.php"
-        },
-        {
-            "title" : "Video: Closing",
-            "href" : "https://www.coursera.org/learn/html/lecture/FlG0K/03-07-closing"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Closing",
-            "href" : "lectures/03_html5/03_07-closing.pdf"
-        },
-        {
-            "title" : "Document: Congratulations!",
-            "href" : "pages/html5/17_more.php"
         }
     ],
     "lti" : [
