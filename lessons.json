@@ -184,95 +184,48 @@
     "anchor": "imaging-technology-options",
     "icon" : "fa-clone",
     "description": "We learn about the fundamentals of scanners, viewing conditions, and lighting.",
-    "slides": "lectures/01_css3.zip",
+    "slides": [
+        {
+            "title" : "The digital scanning process",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+        },
+        {
+            "title" : "Three types of scanners",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+        },
+        {
+            "title" : "Calibrating viewing monitors",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+        },
+        {
+            "title" : "Scan control software",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+        }
+     ],
     "references" : [
         {
-            "title" : "Document: Syllabus",
-            "href" : "/pages/css3/01_syllabus.php"
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 52-53. PDF",
+            "href" : "lectures/04-imaging_technology_options/FADGI-2016-52-53.pdf"
         },
         {
-            "title" : "Document: Resources",
-            "href" : "pages/css3/02_resources1.php"
+            "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage materials [reflective]. Excerpts: Sec. 4, Sec. 5. PDF",
+            "href" : "lectures/04-imaging_technology_options/ISO19263-2019-sec4-5.pdf"
         },
         {
-            "title" : "Document: Help us learn more about you!",
-            "href" : "pages/css3/03_you.php"
+            "title" : "Timothy Vitale. “Light Levels Used in Modern Flatbed Scanners.” RLG DigiNews October 15, 1998, Volume 2, Number 5.",
+            "href" : "http://worldcat.org/arcviewer/1/OCC/2007/08/08/0000070519/viewer/file3571.html"
         },
         {
-            "title" : "Video: Introduction to CSS3",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/zOHP0/01-01-course-welcome"
+            "title" : "Peter Krogh. “Camera Scans – Using a Digital Camera as a Film Scanner.” IS&T Archiving 2009 Final Program and Proceedings, 164-168. PDF",
+            "href" : "lectures/04-imaging_technology_options/krogh-camera-scans-2009.pdf"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to CSS3",
-            "href" : "lectures/01_css3/01_01-intro_to_css3.pdf"
+            "title" : "Yongli Zhou. “Fulfill Your Digital Preservation Goals with a Budget Studio.” IS&T Archiving 2016 Final Program and Proceedings, 38-44. PDF",
+            "href" : "lectures/04-imaging_technology_options/zhou-fulfill-your-digital-preservation-goals-2016.pdf"
         },
         {
-            "title" : "Document: Building Your First Web Page by Shay Howe",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "pages/css3/04_howe.php"
-        },
-        {
-            "title" : "Video: Cascading Style Sheets",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/pf413/01-02-cascading-style-sheets"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Cascading Style Sheets",
-            "href" : "lectures/01_css3/01_02-cascading_style_sheets.pdf"
-        },
-        {
-            "title" : "Video: Colors",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/BssvJ/01-03-colors"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Colors",
-            "href" : "lectures/01_css3/01_03-colors.pdf"
-        },
-        {
-            "title" : "Video: Styling Your Text",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/kxPBK/01-04-styling-your-text"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Styling Your Text",
-            "href" : "lectures/01_css3/01_04-styling_your_text.pdf"
-        },
-        {
-            "title" : "Document: Early Coding",
-            "href" : "pages/css3/05_early.php"
-        },
-        {
-            "title" : "Video: Code Together",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/9Ps4p/01-05-code-together"
-        },
-        {
-            "title" : "Video: Display and Visibility Part 1",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/2XGcn/01-06a-display-and-visibility-part-1"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Display and Visibility",
-            "href" : "lectures/01_css3/01_06-display_and_visibility.pdf"
-        },
-        {
-            "title" : "Video: Display and Visibility Part 2",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/vXFBt/01-06b-display-and-visibility-part-2"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Display and Visibility",
-            "href" : "lectures/01_css3/01_06-display_and_visibility.pdf"
-        },
-        {
-            "title" : "Document: Code Placement",
-            "href" : "pages/css3/06_placement.php"
-        },
-        {
-            "title" : "Document: Homework One Description",
-            "href" : "pages/css3/07_hw1.php"
-        },
-        {
-            "title" : "Video: OPTIONAL: Homework Description",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/ta7aA/01-07-optional-homework-description"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Homework One",
-            "href" : "lectures/01_css3/01_07-homework_one.pdf"
         }
     ],
     "lti" : [
