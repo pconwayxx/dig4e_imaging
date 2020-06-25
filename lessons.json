@@ -333,27 +333,27 @@
     "references" : [
         {
             "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage material [reflective]. Excerpts: Sec. 2, Sec. 3. PDF",
-            "href" : "https://www.youtube.com/watch?v=Zx6gr_Ch9x8"
+            "href" : "lectures/06-system_performance/ISO19263-2017-Sec2-3.pdf"
         },
         {
             "title" : "ISO 19264-1: 2017. Image quality analysis. Excerpts: Sec. 5, Sec. 6. PDF",
-            "href" : "https://www.youtube.com/watch?v=Zx6gr_Ch9x8"
+            "href" : "lectures/06-system_performance/ISO19264-2017-Sec5-6.pdf"
         },
          {
             "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 9, 69-73, 96-99. PDF",
-            "href" : "https://www.youtube.com/watch?v=Zx6gr_Ch9x8"
+            "href" : "lectures/06-system_performance/FADGI-2016-9-69-73-96-99.pdf"
         },
         {
             "title" : "Federal Agencies Digitization Guidelines Initiative. Digital Imaging Framework. 2009 (Williams). PDF",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/jE7LQ/03-01-pseudo-classes-and-elements"
+            "href" : "lectures/06-system_performance/FADGI-digital-imaging-framework-2009.pdf"
         },
         {
             "title" : "Don Willams & Peter D. Burns. “Preparing for the Image Literate Decade.” IS&T Archiving 2009 Final Program and Proceedings, 124-127. PDF",
-            "href" : "lectures/03_css3/03_01-pseudo_classes_and_elements.pdf"
+            "href" : "lectures/06-system_performance/williams-burns-image-literate-decade-2009.pdf"
         },
         {
             "title" : "Michael Stelmach & Don Williams. “When Good Scanning Goes Bad.” IS&T Archiving 2006 Final Program and Proceedings, 237-243. PDF",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/JmJhE/03-02-transitions"
+            "href" : "lectures/06-system_performance/stelmach-when-good-scanning-2006.pdf"
         },
         {
             "title" : "Michael Horsley & John Berezich. “Implementing a Quality Assurance Plan for Monitoring Scanner Performance.” IS&T Archiving 2011 Final Program and Proceedings, 97-100.",
