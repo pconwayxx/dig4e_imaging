@@ -316,71 +316,66 @@
     "anchor": "system-performance",
     "icon" : "fa-clone",
     "description": "We explore assessing imaging system capabilities using standardized test charts.",
-    "slides": "lectures/03_css3.zip",
-    "references" : [
+    "slides": [
         {
             "title" : "FADGI Digital Imaging Framework 2009",
-            "href" : "https://www.youtube.com/watch?v=Zx6gr_Ch9x8"
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Establishing quality levels",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "When good scanning goes bad",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        ],
+    "references" : [
+        {
+            "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage material [reflective]. Excerpts: Sec. 2, Sec. 3. PDF",
+            "href" : "https://www.youtube.com/watch?v=Zx6gr_Ch9x8"
+        },
+        {
+            "title" : "ISO 19264-1: 2017. Image quality analysis. Excerpts: Sec. 5, Sec. 6. PDF",
             "href" : "https://www.youtube.com/watch?v=Zx6gr_Ch9x8"
         },
          {
-            "title" : "When good scanning goes bad",
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 9, 69-73, 96-99. PDF",
             "href" : "https://www.youtube.com/watch?v=Zx6gr_Ch9x8"
         },
         {
-            "title" : "Video: Pseudo Classes and Elements",
+            "title" : "Federal Agencies Digitization Guidelines Initiative. Digital Imaging Framework. 2009 (Williams). PDF",
             "href" : "https://www.coursera.org/learn/introcss/lecture/jE7LQ/03-01-pseudo-classes-and-elements"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Pseudo Classes and Elements",
+            "title" : "Don Willams & Peter D. Burns. “Preparing for the Image Literate Decade.” IS&T Archiving 2009 Final Program and Proceedings, 124-127. PDF",
             "href" : "lectures/03_css3/03_01-pseudo_classes_and_elements.pdf"
         },
         {
-            "title" : "Video: Transitions",
+            "title" : "Michael Stelmach & Don Williams. “When Good Scanning Goes Bad.” IS&T Archiving 2006 Final Program and Proceedings, 237-243. PDF",
             "href" : "https://www.coursera.org/learn/introcss/lecture/JmJhE/03-02-transitions"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Transitions",
+            "title" : "Michael Horsley & John Berezich. “Implementing a Quality Assurance Plan for Monitoring Scanner Performance.” IS&T Archiving 2011 Final Program and Proceedings, 97-100.",
             "href" : "lectures/03_css3/03_02-transitions.pdf"
         },
         {
-            "title" : "Video: Transforms",
+            "title" : "Dietmar Wueller. “What if the image quality analysis rates my digitization system a ‘no go’?.” IS&T Archiving 2011 Final Program and Proceedings, 211-215.",
             "href" : "https://www.coursera.org/learn/introcss/lecture/9rzOu/03-03-transforms"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Transforms",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "lectures/03_css3/03_03-transforms.pdf"
+        }
+    ],
+    "Assignment" : [
+        { 
+            "title" : "OpenDICE for measuring system performance (audio file)",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Document: OPTIONAL READINGS - Transitions, Transforms, and Animation",
-            "href" : "pages/css3/18_readings.php"
-        },
-        {
-            "title" : "Video: Code Together - Transitions",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/iJzUX/03-04-code-together-transitions"
-        },
-        {
-            "title" : "Document: Positioning",
-            "href" : "pages/css3/19_positioning.php"
-        },
-        {
-            "title" : "Video: Positioning",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/f1qY2/03-05-positioning"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Positioning",
-            "href" : "lectures/03_css3/03_05-positioning.pdf"
-        },
-        {
-            "title" : "Document: Why not a Peer Assessment this week?",
-            "href" : "pages/css3/20_peer.php"
-        },
-        {
-            "title" : "Document: Some Fun Links",
-            "href" : "pages/css3/21_links.php"
+            "title" : "Instructions for downloading and configuring OpenDICE",
+            "href" : "http://www.digitizationguidelines.gov/guidelines/digitize-OpenDice.html"
         }
     ],
     "lti" : [
