@@ -246,99 +246,56 @@
     "anchor": "imaging-workflow",
     "icon" : "fa-clone",
     "description": "We consider imaging procedures and the ethics of producing archival quality images.",
-    "slides": "lectures/02_css3.zip",
+    "slides": [
+        {
+            "title" : "Balancing the three factors of digitization project planning",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digitization workflows at multiple levels of abstraction (from material flows to data flows)",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Quality Management",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        ],
     "references" : [
         {
-            "title" : "Document: Resources",
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 54-62, 85-89, 90. PDF",
             "href" : "pages/css3/08_resources2.php"
         },
         {
-            "title" : "Video: Box Model",
+            "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage materials [reflective]. Excerpts: Annex B, Sec. 6. PDF",
             "href" : "https://www.coursera.org/learn/introcss/lecture/VDg21/02-01-box-model"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Box Model",
+            "title" : "Peter Burns & Don Williams. 'Ten Tips for Maintaining Digital Image Quality.' IS&T Archiving 2007 Final Program and Proceedings Proceedings, 16-22. PDF",
             "href" : "lectures/02_css3/02_01-box_model.pdf"
         },
         {
-            "title" : "Document: Coding Together",
+            "title" : "Steffen Hankiewicz. “Dos and Don'ts for digitisation workflows.” IS&T Archiving 2018 Final Program and Proceedings, 99-104.",
             "href" : "pages/css3/09_together.php"
         },
         {
-            "title" : "Video: Code Together",
+            "title" : "Rob Mildren. “Achieving Quality in Digitisation Workflow.” IS&T Archiving 2006 Final Program and Proceedings, 225-227.",
             "href" : "https://www.coursera.org/learn/introcss/lecture/YqFkK/02-02-code-together"
         },
         {
-            "title" : "Video: Styling Links and Lists",
+            "title" : "Nele Gabriëls, Leuven Dirk Kinnaes, Leuven Diederik Lanoye, Leuven Bruno Vandermeulen, & Mark Verbrugge. “Managing the Digitisation Chain.” IS&T Archiving 2019 Final Program and Proceedings, 17-20. PDF",
             "href" : "https://www.coursera.org/learn/introcss/lecture/VVJf3/02-03-styling-links-and-lists"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Styling Links and Lists",
+            "title" : "Martina Hoffman. “Quality Assurance in Mass Digitization Projects.” IS&T Archiving 2016 Final Program and Proceedings, 107-110.",
             "href" : "lectures/02_css3/02_03-styling_links_and_lists.pdf"
         },
         {
-            "title" : "Video: Advanced Selectors",
+            "title" : "Margot Knijn. “DIGITISE MORE, PAY LESS - Optimising the preparation for digitising large collections of images.” IS&T Archiving 2011 Final Program and Proceedings, 223-226.",
             "href" : "https://www.coursera.org/learn/introcss/lecture/dXukm/02-04-advanced-selectors"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Advanced Selectors",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "lectures/02_css3/02_04-advanced_selectors.pdf"
-        },
-        {
-            "title" : "Document: Supplemental Reading on Complex Selectors",
-            "href" : "pages/css3/10_selectors.php"
-        },
-        {
-            "title" : "Document: Shorthand Rules",
-            "href" : "pages/css3/11_shorthand.php"
-        },
-        {
-            "title" : "Video: Browser Capabilities",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/rlS0y/02-05-browser-capabilites"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Browser Capabilities",
-            "href" : "lectures/02_css3/02_05-browser_capabilities.pdf"
-        },
-        {
-            "title" : "Document: Browsers",
-            "href" : "pages/css3/12_browsers.php"
-        },
-        {
-            "title" : "Document: Code Together",
-            "href" : "pages/css3/13_together2.php"
-        },
-        {
-            "title" : "Video: Code Together",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/2GdcH/02-06-code-together"
-        },
-        {
-            "title" : "Document: Background Images and Opacity",
-            "href" : "pages/css3/14_background.php"
-        },
-        {
-            "title" : "Video: Designing for Accessibility",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/sB0Wx/02-07-designing-for-accessibility"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Designing for Accessibility",
-            "href" : "lectures/02_css3/02_07-designing_for_accessibility.pdf"
-        },
-        {
-            "title" : "Document: Optional - The importance of headings",
-            "href" : "pages/css3/15_headings.php"
-        },
-        {
-            "title" : "Video: OPTIONAL: Homework Description",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/VQgU9/02-08-optional-homework-description"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Homework Two",
-            "href" : "lectures/02_css3/02_08-homework_two.pdf"
-        },
-        {
-            "title" : "Document: Homework Two Description",
-            "href" : "pages/css3/16_hw2.php"
         }
     ],
     "lti" : [
