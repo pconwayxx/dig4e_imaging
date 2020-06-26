@@ -394,8 +394,8 @@
     "slides": "lectures/04_css3.zip",
     "references" : [
         {
-            "title" : "Document: Resources",
-            "href" : "pages/css3/22_resources4.php"
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: 11, 98, 23-25, 33-35. PDF",
+            "href" : "lectures/07-bits_and_bitmaps/FADGI-2016-11-23-25-33-35-98.pdf"
         },
         {
             "title" : "Video: Styling Tables",
