@@ -497,75 +497,56 @@
     "anchor": "color-accuracy",
     "icon" : "fa-clone",
     "description": "We introduce the fundamentals of visible color spaces and color encoding accuracy.",
-    "slides": "lectures/02_js.zip",
+    "slides": [
+        {
+            "title" : "Color theory 101",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Color encoding accuracy and the quality of digital Imaging",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Specifying color encoding values for photographic prints and archival special collections",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Measuring capabilities of scanners to encode color values",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        ],
     "references" : [
         {
-            "title" : "Document: Link to All of the Code for Week 2",
+            "title" : "ISO 19264-1: 2017. Image quality analysis. Excerpts: Sec. 3, Sec. 4, Sec. 6, Sec. 7, Annexes B-C. PDF",
             "href" : "pages/javascript/11_w2code.php"
         },
         {
-            "title" : "Document: Functions",
+            "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage material [reflective]. Excerpts: Sec. 2, Sec. 4, Sec. 5. PDF",
             "href" : "pages/javascript/12_functions.php"
         },
         {
-            "title" : "Video: Functions",
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 11, 64-66, 70, 23-25, 33-35. PDF",
             "href" : "https://www.coursera.org/learn/javascript/lecture/Ltkbl/functions"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Functions",
+            "title" : "Natalie Russo, Allen Phillips, & Franziska Frey. “Demystifying Color Science.” IS&T Archiving 2006 Final Program and Proceedings, 12-15.",
             "href" : "lectures/02_js/02_01-functions.pdf"
         },
         {
-            "title" : "Video: Code Placement",
+            "title" : "Don Williams & Peter D. Burns. “Rethinking Image Color Correction, Validation and Testing.” IS&T Archiving 2016 Final Program and Proceedings, 175-180. PDF",
             "href" : "https://www.coursera.org/learn/javascript/lecture/NWlLT/code-placement"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Code Placement",
+            "title" : "F. Barry Wheeler & Michael J. Bennett. “Accurate Color?” IS&T Archiving 2011 Final Program and Proceedings, 87-91. PDF",
             "href" : "lectures/02_js/02_02-code_placement.pdf"
         },
         {
-            "title" : "Document: Organizing Your Code",
+            "title" : "Don Williams & Peter D. Burns. “Capturing the Color of Black and White.” IS&T Archiving 2010 Final Program and Proceedings, 96-100. PDF",
             "href" : "pages/javascript/13_placement.php"
         },
         {
-            "title" : "Video: Folder Structure / Organizing Your Code",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "https://www.coursera.org/learn/javascript/lecture/1cV0w/folder-structure-organizing-your-code"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Folder Structure / Organizing Your Code",
-            "href" : "lectures/02_js/02_03-folder_structure.pdf"
-        },
-        {
-            "title" : "Video: Events",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/D7R3j/events"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Events",
-            "href" : "lectures/02_js/02_04-events.pdf"
-        },
-        {
-            "title" : "Document: Mastering Events and Functions",
-            "href" : "pages/javascript/14_events.php"
-        },
-        {
-            "title" : "Video: Code With Me - Events",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/Ch7Pn/code-with-me-events"
-        },
-        {
-            "title" : "Document: Just a little note before the next video",
-            "href" : "pages/javascript/15_note.php"
-        },
-        {
-            "title" : "Video: 'this'",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/2fCqw/this"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: 'this'",
-            "href" : "lectures/02_js/02_06-this.pdf"
-        },
-        {
-            "title" : "Homework Time!!",
-            "href" : "pages/javascript/16_homework.php"
         }
     ],
     "lti" : [
