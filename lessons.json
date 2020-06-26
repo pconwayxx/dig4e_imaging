@@ -391,71 +391,44 @@
     "anchor": "bits-and-bitmaps",
     "icon" : "fa-clone",
     "description": "We learn about specifying and measuring resolution and bit depth.",
-    "slides": "lectures/04_css3.zip",
+    "slides": [
+        {
+            "title" : "What is a bitmap?",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Spatial frequency response in digital imaging standards and best practices",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Specifying resolution and bit depth for photographic prints and archival special collections",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Measuring resolution capabilities of scanners – using OpenDICE.",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        ],
     "references" : [
+        {
+            "title" : "ISO 19264-1: 2017. Image quality analysis. Excerpts: Sec. 3, Sec. 6, Annexes A-C. PDF",
+            "href" : "lectures/07-bits_and_bitmaps/ISO19264-2017-Sec3-6-AnnexA-C.pdf"
+        },
         {
             "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: 11, 98, 23-25, 33-35. PDF",
             "href" : "lectures/07-bits_and_bitmaps/FADGI-2016-11-23-25-33-35-98.pdf"
         },
         {
-            "title" : "Video: Styling Tables",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/OGCjp/04-01-styling-tables"
+            "title" : "Howard Besser. Introduction to Imaging, Revised Edition. Getty Research Institute. 2003. Excerpts: The Image: Bit Depth/Dynamic Range & The Image: Resolution.",
+            "href" : "https://www.getty.edu/research/publications/electronic_publications/introimages/index.html"
         },
         {
-            "title" : "Video: Creating Navigation",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/y5ODR/04-02-creating-navigation-menus"
+            "title" : "Don Williams. “What is an MTF … and Why Should You Care?” RLG DigiNews, vol 2, No. 1, Feb 15, 1998.",
+            "href" : "http://webdoc.sub.gwdg.de.proxy.lib.umich.edu/edoc/aw/rlgdn/preserv/diginews/diginews21.html"
         },
         {
-            "title" : "Video: Accessible Navigation",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/WWU0K/04-03-accessible-navigation"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Accessible Navigation",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "lectures/04_css3/04_03-accessible_navigation.pdf"
-        },
-        {
-            "title" : "Document: OPTIONAL: A Change to the Accessibility of Headings",
-            "href" : "pages/css3/23_change.php"
-        },
-        {
-            "title" : "Video: Creating Navigation Menus 2",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/sVTwE/04-04-creating-navigation-menus-2"
-        },
-        {
-            "title" : "Video: Creating Navigaion Menus 3",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/DCeKu/04-05-creating-navigation-menus-3"
-        },
-        {
-            "title" : "Document: Final Project Description",
-            "href" : "pages/css3/24_project.php"
-        },
-        {
-            "title" : "Video: OPTIONAL: Homework Description",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/SyQ0X/04-06-optional-homework-description"
-        },
-        {
-            "title" : "Video: Closing",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/ivsNj/04-07-conclusion"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Closing",
-            "href" : "lectures/04_css3/04_07-closing.pdf"
-        },
-        {
-            "title" : "Document: Coursera Options",
-            "href" : "pages/css3/25_coursera.php"
-        },
-        {
-            "title" : "Document: CodeAcademy - other badge tutorials",
-            "href" : "pages/css3/26_codeacademy.php"
-        },
-        {
-            "title" : "Document: Meetups",
-            "href" : "pages/css3/27_meetups.php"
-        },
-        {
-            "title" : "Document: Post-course Survey",
-            "href" : "pages/css3/28_survey.php"
         }
     ],
     "lti" : [
