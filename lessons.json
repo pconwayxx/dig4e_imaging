@@ -444,95 +444,44 @@
     "anchor": "tone-response",
     "icon" : "fa-clone",
     "description": "We learn about assessing image tone/exposure and white balance/neutrality.",
-    "slides": "lectures/01_js.zip",
+    "slides":[
+        {
+            "title" : "Tone response and white balance",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Tonal values for cultural heritage collections",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Measuring the capabilities of scanners to encode tone values accurately",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        ],
     "references" : [
         {
-            "title" : "Document: Syllabus",
+            "title" : "ISO 19264-1: 2017. Image quality analysis. Excerpts: Sec. 3, Sec. 4, Sec. 6, Sec. 7, Annex B. PDF",
             "href" : "pages/javascript/01_syllabus.php"
         },
         {
-            "title" : "Document: Help us learn more about you!",
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 10, 97, 23-25, 33-35. PDF",
             "href" : "pages/javascript/02_you.php"
         },
         {
-            "title" : "Document: Resources",
+            "title" : "Excerpts from OpenDICE Manual v. 1.2. Excerpts: Sec. 1-6, first part of Sec. 7, Sec. 7(2). PDF",
             "href" : "pages/javascript/03_resources.php"
         },
         {
-            "title" : "Document: What are these deadlines?",
+            "title" : "Robert Buckley & Steven Puglia. “Report of the CIE Technical Committee on Archival Colour Imaging.” IS&T Archiving 2013 Final Program and Proceedings, 112-115.",
             "href" : "pages/javascript/04_deadlines.php"
         },
         {
-            "title" : "Video: Introduction to JavaScript",
+            "title" : "Robert W. G. Hunt. “The Importance of Being Not Too Earnest.” IS&T 11th Color and Imaging Conference Final Program and Proceedings. January 2003, 6-10.",
             "href" : "https://www.coursera.org/learn/javascript/lecture/EYX66/introduction"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to JavaScript",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "lectures/01_js/01_01-intro_to_js.pdf"
-        },
-        {
-            "title" : "Document: Link to All of the Code for Week 1",
-            "href" : "pages/javascript/05_w1code.php"
-        },
-        {
-            "title" : "Document: The Document Object Model (DOM)",
-            "href" : "pages/javascript/06_dom.php"
-        },
-        {
-            "title" : "Video: DOM Review with Object Oriented Programming",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/16Cu2/dom-review-with-object-oriented-programming"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: DOM Review with Object Oriented Programming",
-            "href" : "lectures/01_js/01_02-DOM_review.pdf"
-        },
-        {
-            "title" : "Video: Output",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/JM3Bi/output"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Output",
-            "href" : "lectures/01_js/01_03-js_output.pdf"
-        },
-        {
-            "title" : "Document: Trying to Create and Debug Your Own Output",
-            "href" : "pages/javascript/07_output.php"
-        },
-        {
-            "title" : "Video: Variables",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/fMApf/variables"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Variables",
-            "href" : "lectures/01_js/01_04-variables.pdf"
-        },
-        {
-            "title" : "Video: Data Types",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/c7grG/data-types"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Data Types",
-            "href" : "lectures/01_js/01_05-functions.pdf"
-        },
-        {
-            "title" : "Video: Operators and Expressions",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/4JNUO/operators-and-expressions"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Operatorsand Expressions",
-            "href" : "lectures/01_js/01_06-operators_and_expressions.pdf"
-        },
-        {
-            "title" : "Document: Notice for Auditing Learners: Assignment Submission",
-            "href" : "pages/javascript/08_audit.php"
-        },
-        {
-            "title" : "Document: Optional Materials",
-            "href" : "pages/javascript/09_optional.php"
-        },
-        {
-            "title" : "Document: The History of Debugging",
-            "href" : "pages/javascript/10_debug.php"
         }
     ],
     "lti" : [
