@@ -616,67 +616,44 @@
     "anchor": "image-processing",
     "icon" : "fa-clone",
     "description": "We explore ethics and techniques for normalizing master images and producing derivatives.",
-    "slides": "lectures/04_js.zip",
+    "slides": [
+        {
+            "title" : "An image artifacts model",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "From archival to production master images",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "The ethics of post-scan image manipulation",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        ],
     "references" : [
         {
-            "title" : "Document: Link to All of the Code for Week 4",
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 63-68. PDF",
             "href" : "pages/javascript/21_w4code.php"
         },
         {
-            "title" : "Document: Introduction to Forms",
+            "title" : "SO 19263-1: 2017. Best practices for digital image capture of cultural heritage material [reflective]. Excerpts: Sec. 4. PDF",
             "href" : "pages/javascript/22_forms.php"
         },
         {
-            "title" : "Video: Simple Forms",
+            "title" : "Paul Conway. “Preserving Imperfection.” Preservation, Digital Technology and Culture 42.1 (2013): 17-30. PDF",
             "href" : "https://www.coursera.org/learn/javascript/lecture/2VjBX/simple-forms"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Simple Forms",
+            "title" : "Matthew Pearson. “Preservation Still Image Defects.” IS&T Archiving 2013 Final Program and Proceedings, 154.",
             "href" : "lectures/04_js/04_01-simple_forms.pdf"
         },
         {
-            "title" : "Video: Simple Validation",
+            "title" : "Stanford University Libraries. Quality Assurance - Image Defects. [permission required] PDF",
             "href" : "https://www.coursera.org/learn/javascript/lecture/LhVoE/simple-validation"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Simple Validation",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "lectures/04_js/04_02-simple_validation.pdf"
-        },
-        {
-            "title" : "Document: Cool Stuff - Friend of Foe?",
-            "href" : "pages/javascript/23_cool.php"
-        },
-        {
-            "title" : "Video: Comparing Two Inputs",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/i4227/comparing-two-inputs"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Comparing Two Inputs",
-            "href" : "lectures/04_js/04_03-comparing_two_inputs.pdf"
-        },
-        {
-            "title" : "Video: Checkboxes and Radio Buttons",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/KgbIm/checkboxes-and-radio-buttons"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Checkboxes and Radio Buttons",
-            "href" : "lectures/04_js/04_04-checkboxes_and_radio_buttons.pdf"
-        },
-        {
-            "title" : "Document: Using Forms on Your Site",
-            "href" : "pages/javascript/24_site.php"
-        },
-        {
-            "title" : "Document: More Code Examples",
-            "href" : "pages/javascript/25_more.php"
-        },
-        {
-            "title" : "Document: Introduction to JQuery",
-            "href" : "pages/javascript/26_jquery.php"
-        },
-        {
-            "title" : "Document: Post-course Survey",
-            "href" : "pages/javascript/27_survey.php"
         }
     ],
     "lti" : [
