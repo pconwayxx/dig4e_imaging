@@ -788,63 +788,44 @@
     "anchor": "future-of-digital-imaging",
     "icon" : "fa-clone",
     "description": "We consider the technical trends that are changing digital imaging.",
-    "slides": "lectures/03_rd.zip",
+    "slides": [
+        {
+            "title" : "Past predictions and present promise of digital imaging in the cultural heritage sector",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Technical trends: ISO standards, multispectral and 3D imaging",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Procedural trends: public/private partnerships",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Organizational trends: ubiquitous imaging – getting the job done",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        ],
     "references" : [
         {
-            "title" : "Video: Frameworks",
+            "title" : "Ricky Erway & Rebecca Schaffner. Shifting Gears: Gearing Up to Get Into the Flow, Second Edition. OCLS: 2017. PDF",
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/9Osia/frameworks"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Frameworks",
+            "title" : "Paul Conway. “Digital Transformations and the Archival Nature of Surrogates.” Archival Science 15.1, 2014: 51-69. PDF",
             "href" : "lectures/03_rd/03_01-frameworks.pdf"
         },
         {
-            "title" : "Video: Introduction to Twitter Bootstrap 3",
+            "title" : "Harriett Green & Angela Courtney. “The Role of Digital Collections in Scholarly Communications.” IS&T Archiving 2016 Final Program and Proceedings, 193-196.",
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/y9itO/introduction-to-twitter-bootstrap-3"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to Twitter Bootstrap 3",
+            "title" : "Seyed Ali Amirshahi & Marius Pederson. “Future Directions in Image Quality.” IS&T 27th Color and Imaging Conference Final Program and Proceedings. October 2019, 399-403.",
             "href" : "lectures/03_rd/03_02-intro_to_bootstrap_3.pdf"
         },
         {
-            "title" : "Video: Bootstrap Breakpoints",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/OuZp6/bootstrap-breakpoints"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Bootstrap Breakpoints",
-            "href" : "lectures/03_rd/03_03-bootstrap_breakpoints.pdf"
-        },
-        {
-            "title" : "Video: Getting Started with Twitter Bootstrap",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/wZGGp/getting-started-with-twitter-bootstrap"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Getting Started with Twitter Bootstrap",
-            "href" : "lectures/03_rd/03_04-getting_started_with_bootstrap_3.pdf"
-        },
-        {
-            "title" : "Video: Bootstrap 3 Grid System",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/yHMDd/bootstrap-grid-system"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Bootstrap 3 Grid System",
-            "href" : "lectures/03_rd/03_05-bootstrap_3_grid_system.pdf"
-        },
-        {
-            "title" : "Video: Code With Me - Grid Example",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/fd50Q/code-with-me-grid-example"
-        },
-        {
-            "title" : "Video: Bootstrap Navigation",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/opt7D/bootstrap-navigation"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Bootstrap Navigation",
-            "href" : "lectures/03_rd/03_07-bootstrap_navigation.pdf"
-        },
-        {
-            "title" : "Document: OPTIONAL - Demystifying Bootstrap",
-            "href" : "pages/responsivedesign/11_demystifying.php"
         }
     ],
     "lti" : [
