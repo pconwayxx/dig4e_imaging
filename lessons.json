@@ -669,87 +669,52 @@
     "anchor": "image-metadata-standards",
     "icon" : "fa-clone",
     "description": "We learn to document the technical features of digital images.",
-    "slides": "lectures/01_rd.zip",
+    "slides": [
+        {
+            "title" : "The meaning of technical metadata",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Technical metadata for still images",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Embedded versus external metadata",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Positioning digital images for long term access and use",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        ],
     "references" : [
         {
-            "title" : "Document: Syllabus",
+            "title" : "Murtha Baca. Introduction to Metadata, Third Edition. Getty Research Institute, 2016.",
             "href" : "pages/responsivedesign/01_syllabus.php"
         },
         {
-            "title" : "Document: Resources",
+            "title" : "NISO Z39.87-2006 (r2017). Technical Metadata for Still Images. PDF",
             "href" : "pages/responsivedesign/02_resources.php"
         },
         {
-            "title" : "Document: Frequently Asked Questions (FAQ)",
+            "title" : "Metadata for Images in XML Schema (MIX).",
             "href" : "pages/responsivedesign/03_faq"
         },
         {
-            "title" : "Video: Introduction to Responsive Design",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/txDkK/introduction-to-responsive-design"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to Responsive Design",
+            "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage material [reflective]. Excerpts: Sec. 7. PDF",
             "href" : "lectures/01_rd/01_01-intro_to_rd.pdf"
         },
         {
-            "title" : "Document: Help us learn more about you!",
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 74-85. PDF",
             "href" : "pages/responsivedesign/04_you.php"
         },
         {
-            "title" : "Video: What is Responsive Design?",
+            "title" : "Kari R. Smith, Sarah Saunders, & Ulla Bøgvad Kejser. “Making the Case for Embedded Metadata in Digital Images.” IS&T Archiving 2014 Final Program and Proceedings, 52-57. PDF",
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/ps9ld/what-is-responsive-design"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: What is Responsive Design",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "lectures/01_rd/01_02-what_is_rd.pdf"
-        },
-        {
-            "title" : "Video: Testing Existing Sites",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/M1D8S/testing-existing-sites"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Testing Existing Sites",
-            "href" : "lectures/01_rd/01_03-testing_sites.pdf"
-        },
-        {
-            "title" : "Video: Benefits of Responsive Design",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/4DDTg/benefits-of-responsive-design"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Benefits of Responsive Design",
-            "href" : "lectures/01_rd/01_04-benefits_of_rd.pdf"
-        },
-        {
-            "title" : "Document: Fluid Measurements Background Readings",
-            "href" : "pages/responsivedesign/05_readings.php"
-        },
-        {
-            "title" : "Video: Fluid Measurements",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/stZ5k/fluid-measurements"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Fluid Measurements",
-            "href" : "lectures/01_rd/01_05-fluid_measurements.pdf"
-        },
-        {
-            "title" : "Video: Code With Me - Fluid Measurements",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/6MUTk/code-with-me-fluid-measurements"
-        },
-        {
-            "title" : "Document: Notice for Auditing Learners - Assignment Submission",
-            "href" : "pages/responsivedesign/06_auditing.php"
-        },
-        {
-            "title" : "Document: Pixel to Em Conversion Tool",
-            "href" : "pages/responsivedesign/07_pixel.php"
-        },
-        {
-            "title" : "Document: Dynamically Change the Size of Font with Sliders",
-            "href" : "pages/responsivedesign/08_font.php"
-        },
-        {
-            "title" : "Document: OPTIONAL - CSS Definitions of Relative and Absolute",
-            "href" : "pages/responsivedesign/09_definitions.php"
         }
     ],
     "lti" : [
