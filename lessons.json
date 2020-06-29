@@ -62,6 +62,12 @@
         "launch" : "mod/gift/",
         "resource_link_id" : "html_01_quiz"
         }
+    ],
+    "assignments" : [
+        {
+            "title" : "Test",
+            "href" : "www.google.com"
+        }
     ]
 },
 {
