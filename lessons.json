@@ -567,71 +567,40 @@
     "anchor": "image-file-formats",
     "icon" : "fa-clone",
     "description": "We learn about the TIFF and JPEG2000 file formats.",
-    "slides": "lectures/03_js.zip",
+    "slides": [
+        {
+            "title" : "Sustainability factors for digital image master files",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "TIFF and JPG2000 compared/contrasted",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Options for access derivatives",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        ],
     "references" : [
         {
-            "title" : "Document: Link to All of the Code for Week 3",
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 12-14. PDF",
             "href" : "pages/javascript/17_w3code.php"
         },
         {
-            "title" : "Document: A JavaScript Cheat Sheet",
+            "title" : "Library of Congress. Sustainability of Digital Formats.",
             "href" : "pages/javascript/18_sheet.php"
         },
         {
-            "title" : "Document: Arrays",
+            "title" : "Volker Heydegger. “Analysing the Impact of File Formats on Data Integrity.” IS&T Archiving 2008 Final Program and Proceedings, 50-55.",
             "href" : "pages/javascript/19_arrays.php"
         },
         {
-            "title" : "Video: JavaScript Arrays",
+            "title" : "Laurent Duplouy. “JPEG2000 as a preservation format for digitization.” IS&T Archiving 2017 Final Program and Proceedings, 157-159.",
             "href" : "https://www.coursera.org/learn/javascript/lecture/g8N8v/javascript-arrays"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: JavaScript Arrays",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "lectures/03_js/03_01-js_arrays.pdf"
-        },
-        {
-            "title" : "Video: Code With Me - Arrays",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/0WIL8/code-with-me-arrays"
-        },
-        {
-            "title" : "Document: Advanced Coding Techniques",
-            "href" : "pages/javascript/20_techniques.php"
-        },
-        {
-            "title" : "Video: JavaScript Iteration",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/ZO1SL/javascript-iteration"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: JavaScript Iteration",
-            "href" : "lectures/03_js/03_03-js_iteration.pdf"
-        },
-        {
-            "title" : "Video: Flow Of Control",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/28x9J/flow-of-control"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Flow Of Control",
-            "href" : "lectures/03_js/03_04-flow_of_control.pdf"
-        },
-        {
-            "title" : "Video: Code With Me - Combining Loops and Conditionals",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/Ir9pR/code-with-me-combining-loops-and-conditionals"
-        },
-        {
-            "title" : "Video: Advanced Conditionals",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/klU5G/advanced-conditionals"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Advanced Conditionals",
-            "href" : "lectures/03_js/03_06-advanced_conditionals.pdf"
-        },
-        {
-            "title" : "Video: Common Errors",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/3Qluo/common-errors"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Common Errors",
-            "href" : "lectures/03_js/03_07-common_errors.pdf"
         }
     ],
     "lti" : [
