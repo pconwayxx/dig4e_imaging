@@ -730,51 +730,44 @@
     "anchor": "costs-and-outsourcing",
     "icon" : "fa-clone",
     "description": "We learn how to estimate imaging costs and work with third-party vendors.",
-    "slides": "lectures/02_rd.zip",
+    "slides": [
+        {
+            "title" : "Partnerships and project planning",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Contracting for digital imaging services",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Featured vendor [tbd]",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        ],
     "references" : [
         {
-            "title" : "Video: Media Queries",
+            "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: p. 54. PDF",
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/b2Gan/media-queries"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Media Queries",
+            "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage material [reflective]. Excerpts: Sec. 6. PDF",
             "href" : "lectures/02_rd/02_01-media_queries.pdf"
         },
         {
-            "title" : "Video: Code With Me - Fluid Measurements and Media Queries",
+            "title" : "NISO. A Framework of Guidance for Building Good Digital Collections, 3rd edition. Bethesda, MD: National Information Standards Organization, 2007. Excerpts: Chapter on Initiatives, pp. 85-96. PDF",
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/dQndg/code-with-me-fluid-measurements-and-media-queries"
         },
         {
-            "title" : "Video: Wire Frames",
+            "title" : "RLG Guidelines for Creating a RFP for Digital Imaging Services. 1998. PDF",
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/CuYAt/wire-frames"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Wire Frames",
+            "title" : "Ulla Bøgvas Kesjer, Joy Davidson, David Wang, Stephan Strodl, Tomasz Miksa, Kathrine Hougaard Edsen Johansen, Anders Bo Nielsen, & Alex Thirifays. “State of the Art of Cost and Benefit Models for Digital Curation.” IS&T Archiving 2014 Final Program and Proceedings, 144-149.",
             "href" : "lectures/02_rd/02_03-wireframes.pdf"
         },
         {
-            "title" : "Video: Breakpoints",
+            "title" : "Appendix: Wikipedia resources",
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/89Aoz/breakpoints"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Breakpoints",
-            "href" : "lectures/02_rd/02_04-breakpoints.pdf"
-        },
-        {
-            "title" : "Video: Media Queries Part 2",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/TK4CK/media-queries-part-two"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Media Queries Part 2",
-            "href" : "lectures/02_rd/02_05-media_queries_p2.pdf"
-        },
-        {
-            "title" : "Video: Code With Me - Responsive Navigation",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/iHbe9/code-with-me-responsive-navigation"
-        },
-        {
-            "title" : "Document: OPTIONAL - Good Examples of Responsive Design",
-            "href" : "pages/responsivedesign/10_examples.php"
         }
     ],
     "lti" : [
