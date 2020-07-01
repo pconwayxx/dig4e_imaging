@@ -22,7 +22,7 @@
     "description": "We learn about visual perception and the digital encoding of reflected light.",
     "slides": [
         {
-            "title" : "Visual Foundations",
+            "title" : "Visual foundations",
             "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
@@ -33,10 +33,10 @@
             "title" : "Digital imaging terminology",
             "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
-        ],
+    ],
     "references" : [
         {
-            "title" : "ISO 19262:2015 Photography – Archiving Systems – Vocabulary ",
+            "title" : "ISO 19262: 2015 Photography – Archiving Systems – Vocabulary ",
             "href" : "https://www.iso.org/obp/ui/#iso:std:iso:19262:ed-1:v1:en"
         },
         {
@@ -62,12 +62,6 @@
         "launch" : "mod/gift/",
         "resource_link_id" : "html_01_quiz"
         }
-    ],
-    "assignments" : [
-        {
-            "title" : "Test",
-            "href" : "www.google.com"
-        }
     ]
 },
 {
@@ -78,15 +72,15 @@
     "slides": [
         {
             "title" : "What is FADGI?",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "ISO imaging standards past and present",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Balancing standards, guidelines, and local practice @ scale",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
      ],
     "references" : [
@@ -143,15 +137,15 @@
     "slides": [
         {
             "title" : "Preservation storage",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Physical work environment",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Care and handling in the digitization workflow",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
      ],
     "references" : [
@@ -161,7 +155,7 @@
         },
         {
             "title" : "Peter Z. Adelstein. IPI Media Storage Quick Reference, 2nd edition. Rochester: Image Permanence Institute, 2009.PDF",
-            "href" : "lectures/03_html5/03_01-accessible_web.pdf"
+            "href" : "lectures/03-physical_care_and_handling/adelstein-ipi-media-storage.pdf"
         },
         {
             "title" : "Library of Congress. Preservation. Collections Care. Digitization Guidelines.",
@@ -193,19 +187,19 @@
     "slides": [
         {
             "title" : "The digital scanning process",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Three types of scanners",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Calibrating viewing monitors",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Scan control software",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
      ],
     "references" : [
@@ -269,15 +263,15 @@
     "references" : [
         {
             "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 54-62, 85-89, 90. PDF",
-            "href" : "pages/css3/08_resources2.php"
+            "href" : "lectures/05-imaging_workflow/FADGI-2016-54-62-85-90.pdf"
         },
         {
             "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage materials [reflective]. Excerpts: Annex B, Sec. 6. PDF",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/VDg21/02-01-box-model"
+            "href" : "lectures/05-imaging_workflow/ISO19263-2017-sec6-annexb.pdf"
         },
         {
             "title" : "Peter Burns & Don Williams. 'Ten Tips for Maintaining Digital Image Quality.' IS&T Archiving 2007 Final Program and Proceedings Proceedings, 16-22. PDF",
-            "href" : "lectures/02_css3/02_01-box_model.pdf"
+            "href" : "lectures/05-imaging_workflow/burns-williams-ten-tips-2007.pdf"
         },
         {
             "title" : "Steffen Hankiewicz. “Dos and Don'ts for digitisation workflows.” IS&T Archiving 2018 Final Program and Proceedings, 99-104.",
@@ -374,8 +368,8 @@
             "href" : "lectures/03_css3/03_03-transforms.pdf"
         }
     ],
-    "Assignment" : [
-        { 
+    "assignments" : [
+        {
             "title" : "OpenDICE for measuring system performance (audio file)",
             "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
@@ -467,15 +461,15 @@
     "references" : [
         {
             "title" : "ISO 19264-1: 2017. Image quality analysis. Excerpts: Sec. 3, Sec. 4, Sec. 6, Sec. 7, Annex B. PDF",
-            "href" : "pages/javascript/01_syllabus.php"
+            "href" : "lectures/08-tone_response/ISO19264-2017-Sec3-4-6-7-annexb.pdf"
         },
         {
             "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 10, 97, 23-25, 33-35. PDF",
-            "href" : "pages/javascript/02_you.php"
+            "href" : "lectures/08-tone_response/FADGI-2016-10-23-25-33-35-97.pdf"
         },
         {
             "title" : "Excerpts from OpenDICE Manual v. 1.2. Excerpts: Sec. 1-6, first part of Sec. 7, Sec. 7(2). PDF",
-            "href" : "pages/javascript/03_resources.php"
+            "href" : "lectures/08-tone_response/opendice-manual-1.2.pdf"
         },
         {
             "title" : "Robert Buckley & Steven Puglia. “Report of the CIE Technical Committee on Archival Colour Imaging.” IS&T Archiving 2013 Final Program and Proceedings, 112-115.",
@@ -524,15 +518,15 @@
     "references" : [
         {
             "title" : "ISO 19264-1: 2017. Image quality analysis. Excerpts: Sec. 3, Sec. 4, Sec. 6, Sec. 7, Annexes B-C. PDF",
-            "href" : "pages/javascript/11_w2code.php"
+            "href" : "lectures/09-color_accuracy/ISO19264-2017-sec3-4-6-7-annexb-c.pdf"
         },
         {
             "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage material [reflective]. Excerpts: Sec. 2, Sec. 4, Sec. 5. PDF",
-            "href" : "pages/javascript/12_functions.php"
+            "href" : "lectures/09-color_accuracy/ISO19263-2017-sec2-4-5.pdf"
         },
         {
             "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 11, 64-66, 70, 23-25, 33-35. PDF",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/Ltkbl/functions"
+            "href" : "lectures/09-color_accuracy/FADGI-2016-11-23-25-33-35-64-66-70.pdf"
         },
         {
             "title" : "Natalie Russo, Allen Phillips, & Franziska Frey. “Demystifying Color Science.” IS&T Archiving 2006 Final Program and Proceedings, 12-15.",
@@ -540,15 +534,15 @@
         },
         {
             "title" : "Don Williams & Peter D. Burns. “Rethinking Image Color Correction, Validation and Testing.” IS&T Archiving 2016 Final Program and Proceedings, 175-180. PDF",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/NWlLT/code-placement"
+            "href" : "lectures/09-color_accuracy/williams-burns-rethinking-image-color-correction-2016.pdf"
         },
         {
             "title" : "F. Barry Wheeler & Michael J. Bennett. “Accurate Color?” IS&T Archiving 2011 Final Program and Proceedings, 87-91. PDF",
-            "href" : "lectures/02_js/02_02-code_placement.pdf"
+            "href" : "lectures/09-color_accuracy/wheeler-bennett-accurate-color-2011.pdf"
         },
         {
             "title" : "Don Williams & Peter D. Burns. “Capturing the Color of Black and White.” IS&T Archiving 2010 Final Program and Proceedings, 96-100. PDF",
-            "href" : "pages/javascript/13_placement.php"
+            "href" : "lectures/09-color_accuracy/williams-burns-capturing-the-color-2010.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -590,7 +584,7 @@
     "references" : [
         {
             "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 12-14. PDF",
-            "href" : "pages/javascript/17_w3code.php"
+            "href" : "lectures/10-image_file_formats/FADGI-2016-11-23-25-33-35-64-66-70.pdf"
         },
         {
             "title" : "Library of Congress. Sustainability of Digital Formats.",
@@ -639,11 +633,11 @@
     "references" : [
         {
             "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 63-68. PDF",
-            "href" : "pages/javascript/21_w4code.php"
+            "href" : "lectures/11-image_processing/FADGI-2016-63-68.pdf"
         },
         {
-            "title" : "SO 19263-1: 2017. Best practices for digital image capture of cultural heritage material [reflective]. Excerpts: Sec. 4. PDF",
-            "href" : "pages/javascript/22_forms.php"
+            "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage material [reflective]. Excerpts: Sec. 4. PDF",
+            "href" : "lectures/11-image_processing/ISO19263-2017-sec4.pdf"
         },
         {
             "title" : "Paul Conway. “Preserving Imperfection.” Preservation, Digital Technology and Culture 42.1 (2013): 17-30. PDF",
@@ -655,7 +649,7 @@
         },
         {
             "title" : "Stanford University Libraries. Quality Assurance - Image Defects. [permission required] PDF",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/LhVoE/simple-validation"
+            "href" : "lectures/11-image_processing/stanford-image-artifacts.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -700,7 +694,7 @@
         },
         {
             "title" : "NISO Z39.87-2006 (r2017). Technical Metadata for Still Images. PDF",
-            "href" : "pages/responsivedesign/02_resources.php"
+            "href" : "lectures/12-image_metadata_standards/ansi-niso-z39.87-2006-r2017.pdf"
         },
         {
             "title" : "Metadata for Images in XML Schema (MIX).",
@@ -708,15 +702,15 @@
         },
         {
             "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage material [reflective]. Excerpts: Sec. 7. PDF",
-            "href" : "lectures/01_rd/01_01-intro_to_rd.pdf"
+            "href" : "lectures/12-image_metadata_standards/ISO19263-2017-sec7.pdf"
         },
         {
             "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: pp. 74-85. PDF",
-            "href" : "pages/responsivedesign/04_you.php"
+            "href" : "lectures/12-image_metadata_standards/FADGI-2016-74-85.pdf"
         },
         {
             "title" : "Kari R. Smith, Sarah Saunders, & Ulla Bøgvad Kejser. “Making the Case for Embedded Metadata in Digital Images.” IS&T Archiving 2014 Final Program and Proceedings, 52-57. PDF",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/ps9ld/what-is-responsive-design"
+            "href" : "lectures/12-image_metadata_standards/smith-saunders-kesjer-making-the-case.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -753,19 +747,19 @@
     "references" : [
         {
             "title" : "Federal Agencies Digitization Guidelines Initiative (FADGI). Technical Guidelines for Digitizing Cultural Heritage Materials. September 2016. Excerpts: p. 54. PDF",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/b2Gan/media-queries"
+            "href" : "lectures/13-costs_and_outsourcing/FADGI-2016-54.pdf"
         },
         {
             "title" : "ISO 19263-1: 2017. Best practices for digital image capture of cultural heritage material [reflective]. Excerpts: Sec. 6. PDF",
-            "href" : "lectures/02_rd/02_01-media_queries.pdf"
+            "href" : "lectures/13-costs_and_outsourcing/ISO19263-2017-sec6.pdf"
         },
         {
             "title" : "NISO. A Framework of Guidance for Building Good Digital Collections, 3rd edition. Bethesda, MD: National Information Standards Organization, 2007. Excerpts: Chapter on Initiatives, pp. 85-96. PDF",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/dQndg/code-with-me-fluid-measurements-and-media-queries"
+            "href" : "lectures/13-costs_and_outsourcing/niso-framework-of-guidance-2007.pdf"
         },
         {
             "title" : "RLG Guidelines for Creating a RFP for Digital Imaging Services. 1998. PDF",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/CuYAt/wire-frames"
+            "href" : "lectures/13-costs_and_outsourcing/rlg-guidelines.pdf"
         },
         {
             "title" : "Ulla Bøgvas Kesjer, Joy Davidson, David Wang, Stephan Strodl, Tomasz Miksa, Kathrine Hougaard Edsen Johansen, Anders Bo Nielsen, & Alex Thirifays. “State of the Art of Cost and Benefit Models for Digital Curation.” IS&T Archiving 2014 Final Program and Proceedings, 144-149.",
@@ -815,11 +809,11 @@
     "references" : [
         {
             "title" : "Ricky Erway & Rebecca Schaffner. Shifting Gears: Gearing Up to Get Into the Flow, Second Edition. OCLS: 2017. PDF",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/9Osia/frameworks"
+            "href" : "lectures/14-future_of_digital_imaging/erway-schaffner-shifting-gears-2017.pdf"
         },
         {
             "title" : "Paul Conway. “Digital Transformations and the Archival Nature of Surrogates.” Archival Science 15.1, 2014: 51-69. PDF",
-            "href" : "lectures/03_rd/03_01-frameworks.pdf"
+            "href" : "lectures/14-future_of_digital_imaging/conway-digital-transformations-2014.pdf"
         },
         {
             "title" : "Harriett Green & Angela Courtney. “The Role of Digital Collections in Scholarly Communications.” IS&T Archiving 2016 Final Program and Proceedings, 193-196.",
