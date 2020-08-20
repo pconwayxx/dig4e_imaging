@@ -2,4 +2,4 @@
   
 require_once "config.php";
 
-echo("Location: ".$CFG->wwwroot."/store");
+header("Location: ".$CFG->wwwroot."/store");
