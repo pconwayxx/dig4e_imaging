@@ -7,7 +7,7 @@
  */
 
 // This is how the system will refer to itself.
-$CFG->servicename = 'DIG4E_I';
+$CFG->servicename = 'DIG4E-I';
 $CFG->servicedesc = 'OER materials for digitizing images';
 
 // Theme Tsugi to your institutions colors. If not set, default colors will be used.
@@ -22,6 +22,6 @@ $CFG->theme = array(
     "font-size" => "16px", // This is the base font size used for body copy. Headers,etc. are scaled off this value
 );
 
-$CFG->context_title = "Image Digitization for Everybody";
+$CFG->context_title = "Digital Imaging for Everybody";
 
 $CFG->lessons = $CFG->dirroot.'/../lessons.json';
