@@ -1,0 +1,108 @@
+
+     
+.tsugi-lessons-module-lectures {
+    color: #9e4f00;
+    font-family: "Raleway", Sans-Serif;
+    font-weight: 600;
+    font-size: 45px;
+    list-style:none;
+}
+
+.tsugi-lessons-module-lectures p {
+    padding: 25px 0px 25px 0px;
+}
+
+.tsugi-lessons-module-lecture {
+    list-style:none;
+    color: #555555;
+    font-family: "Lusitana", Sans-serif;
+    font-size: 18px;
+    padding: 5px 0px 5px 0px;
+}
+
+.tsugi-lessons-module-lecture-youtube a::before{
+    background-image: url('Icons/Audio_Icons/Video.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content:"";
+    margin-right: 3px;
+    vertical-align: middle;
+}
+
+.tsugi-lessons-module-lecture-audio a::before{
+    background-image: url('Icons/Audio_Icons/Audio.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content:"";
+    margin-right: 3px;
+    vertical-align: middle;
+}
+
+.tsugi-lessons-module-references {
+    color: #9e4f00;
+    font-family: "Raleway", Sans-Serif;
+    font-weight: 600;
+    font-size: 45px;
+    list-style:none;
+}
+
+.tsugi-lessons-module-references p {
+    padding: 25px 0px 25px 0px;
+}
+
+.tsugi-lessons-module-reference {
+    list-style:none;
+    color: #555555;
+    font-family: "Lusitana", Sans-serif;
+    font-size: 18px;
+    padding: 5px 0px 5px 0px;
+}
+
+.tsugi-lessons-module-reference a::before{
+    background-image: url('Icons/Audio_Icons/Resource.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content:"";
+    margin-right: 3px;
+    vertical-align: middle;
+}
+
+.tsugi-lessons-module-slides {
+    list-style:none;
+}
+
+.tsugi-lessons-module-slides::before {
+    background-image: url('icons/slides.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content:"";
+    margin-right: 3px;
+    vertical-align: middle;
+}
+
+.tsugi-lessons-module-slide {
+    list-style:none;
+}
+
+.tsugi-lessons-module-slide a::before{
+        font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f1c4";
+        padding-right: 3px;
+}
+
+.tsugi-lessons-module-lti {
+    list-style:none;
+}
+
+.tsugi-lessons-module-lti::before{
+        font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f5ab";
+        padding-right: 3px;
+}
+
