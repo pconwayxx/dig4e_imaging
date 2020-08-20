@@ -85,7 +85,7 @@ target="_blank">Pearson</a>.
 </p>
 <h3>Copyright</h3>
 <p>
-All this material produced by Colleen Van Lent (including audio and video)
+All this material produced by Paul Conway (including audio and video)
 is Copyright Creative Commons Attribution 3.0
 unless otherwise indicated.
 </p>
