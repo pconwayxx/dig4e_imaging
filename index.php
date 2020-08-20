@@ -18,21 +18,7 @@ require_once "tsugi/admin/sanity-db.php";
 </div>
 <h1>Digitization for Everybody - Imaging</h1>
 <?php if ( isset($_SESSION['id']) ) { ?>
-<p>
-Welcome to our Massive Open Online Course (MOOC). Now that you have logged in, you have access to
-course-style features of this web site.
 <ul>
-<li>
-As you go through the <a href="lessons">Lessons</a> in the course you now will see additional
-links to the autograders in the class.  You can attempt the autograders and get a score.</li>
-<li>
-You can track your progress through the course using the <a href="tsugi/assignments.php">Assignments</a>
-tool and when you complete a group of assignments, you can earn a <a href="tsugi/badges.php">Badge</a>.
-You can download these badges and host them on your web site or refer the badge URLs on this site.</li>
-<li>
-There is an
-<a href="https://disqus.com/home/channel/webapplicationsforeverybody/" target="_blank">online disucsson forum</a>
-hosted by Disqus.</li>
 <li>
 You can use these Creative Commons Licensed materials
 such as the
@@ -70,27 +56,11 @@ If you are interested in collaborating
 to build these kinds of sites for yourself, please see the
 <a href="http://www.tsugi.org" target="_blank">tsugi.org</a> website.
 </p>
-<h3>Textbook</h3>
-<p>
-I am using an open textbook
-<a href="https://learn.shayhowe.com/html-css/"
-target="_new">
-Learn to Code HTML & CSS
-</a>
-by Shay Howe.
-All of the electronic copies
-of the book are free. Print copies of the book are available on
-<a href="https://www.informit.com/store/learn-to-code-html-and-css-develop-and-style-websites-9780321940520?ranMID=24808"
-target="_blank">Pearson</a>.
-</p>
 <h3>Copyright</h3>
 <p>
-All this material produced by Paul Conway (including audio and video)
+The material on this site that is produced by Paul Conway (including audio and video)
 is Copyright Creative Commons Attribution 3.0
 unless otherwise indicated.
-</p>
-<p>
---  Colleen
 </p>
 <!--
 <?php

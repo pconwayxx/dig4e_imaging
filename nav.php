@@ -41,10 +41,9 @@ if ( isset($_SESSION['id']) ) {
         $set->addRight(htmlentities($_SESSION['displayname']), $submenu);
     }
 } else {
-    $set->addRight('Login', $T.'login.php');
+    // $set->addRight('Login', $T.'login.php');
 }
 
-$set->addRight('Book', 'http://textbooks.opensuny.org/the-missing-link-an-introduction-to-web-development-and-programming/');
 $set->addRight('Instructor', 'https://www.si.umich.edu/people/paul-conway');
 
 // Set the topNav for the session
