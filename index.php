@@ -13,9 +13,11 @@ require "nav.php";
 require_once "tsugi/admin/sanity-db.php";
 ?>
 <div id="container">
+<!--
 <div style="margin-left: 10px; float:right">
 <iframe width="400" height="225" src="" frameborder="0" allowfullscreen></iframe>
 </div>
+-->
 <h1>Digitization for Everybody - Imaging</h1>
 <?php if ( isset($_SESSION['id']) ) { ?>
 <ul>

@@ -12,13 +12,14 @@ $CFG->servicedesc = 'OER materials for digitizing images';
 
 // Theme Tsugi to your institutions colors. If not set, default colors will be used.
 $CFG->theme = array(
-    "primary" => "#284B6B", //default color for nav background, splash background, buttons, text of tool menu
+    "primary" => "#0a2b57", //default color for nav background, splash background, buttons, text of tool menu
+    "accent" => "#fad200",
     "secondary" => "#EEEEEE", // Nav text and nav item border color, background of tool menu
     "text" => "#111111", // Standard copy color
     "text-light" => "#5E5E5E", // A lighter version of the standard text color for elements like "small"
-    "font-url" => "https://fonts.googleapis.com/css?family=Source+Sans+Pro", // Optional custom font url for using Google fonts
-    "font-family" => "'Source Sans Pro', Corbel, Avenir, 'Lucida Grande', 'Lucida Sans', sans-serif", // Font family
-    "font-size" => "14px", // This is the base font size used for body copy. Headers,etc. are scaled off this value
+    "font-url" => "https://fonts.googleapis.com/css?family=Raleway%3A400%2C300%2C500%2C600%2C700%2C900&subset=latin%2Clatin-ext",
+    "font-family" => "Raleway, Corbel, Avenir, 'Lucida Grande', 'Lucida Sans', sans-serif", // Font family
+    "font-size" => "16px", // This is the base font size used for body copy. Headers,etc. are scaled off this value
 );
 
 $CFG->context_title = "Image Digitization for Everybody";
