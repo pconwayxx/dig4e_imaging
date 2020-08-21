@@ -21,7 +21,7 @@
 }
 
 .tsugi-lessons-module-lecture-youtube a::before{
-    background-image: url('Icons/Audio_Icons/Video.png');
+    background-image: url('Icons/Imaging_Icons/Video.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -32,7 +32,7 @@
 }
 
 .tsugi-lessons-module-lecture-audio a::before{
-    background-image: url('Icons/Audio_Icons/Audio.png');
+    background-image: url('Icons/Imaging_Icons/Audio.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -63,7 +63,7 @@
 }
 
 .tsugi-lessons-module-reference a::before{
-    background-image: url('Icons/Audio_Icons/Resource.png');
+    background-image: url('Icons/Imaging_Icons/Resource.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
