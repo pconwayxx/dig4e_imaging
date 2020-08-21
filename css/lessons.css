@@ -58,6 +58,11 @@
 
 .tsugi-lessons-module-references p {
     padding: 25px 0px 25px 0px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
 .tsugi-lessons-module-reference {
