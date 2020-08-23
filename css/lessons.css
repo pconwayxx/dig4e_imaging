@@ -1,5 +1,7 @@
+.tsugi-lessons-module-title {
+    color: #9e4f00;
+}
 
-     
 .tsugi-lessons-module-lectures {
     color: #9e4f00;
     font-family: "Raleway", Sans-Serif;
@@ -110,4 +112,3 @@
         font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f5ab";
         padding-right: 3px;
 }
-
