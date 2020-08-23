@@ -1,5 +1,14 @@
+/* Module Style */
 .tsugi-lessons-module-title {
     color: #9e4f00;
+}
+
+.tsugi-lessons-module-description {
+    /* background-image: */
+    color: #555555;
+    font-family: "Lusitana", Sans-Serif;
+    font-weight: 400;
+    font-size: 24px;
 }
 
 .tsugi-lessons-module-lectures {
@@ -7,7 +16,7 @@
     font-family: "Raleway", Sans-Serif;
     font-weight: 400;
     font-size: 28px;
-    list-style:none;
+    list-style: none;
 }
 
 .tsugi-lessons-module-lectures p {
@@ -15,11 +24,11 @@
 }
 
 .tsugi-lessons-module-lecture {
-    list-style:none;
     color: #555555;
     font-family: "Lusitana", Sans-serif;
     font-size: 18px;
     padding: 5px 0px 5px 0px;
+    list-style: none;
 }
 
 .tsugi-lessons-module-lecture-youtube a::before{
@@ -28,7 +37,7 @@
     display: inline-block;
     width: 2em;
     height: 2em;
-    content:"";
+    content: "";
     margin-right: 3px;
     vertical-align: middle;
 }
@@ -39,7 +48,7 @@
     display: inline-block;
     width: 2em;
     height: 2em;
-    content:"";
+    content: "";
     margin-right: 3px;
     vertical-align: middle;
 }
@@ -49,7 +58,7 @@
     font-family: "Raleway", Sans-Serif;
     font-weight: 400;
     font-size: 28px;
-    list-style:none;
+    list-style: none;
 }
 
 .tsugi-lessons-module-references p {
@@ -75,13 +84,13 @@
     display: inline-block;
     width: 2em;
     height: 2em;
-    content:"";
+    content: "";
     margin-right: 3px;
     vertical-align: middle;
 }
 
 .tsugi-lessons-module-slides {
-    list-style:none;
+    list-style: none;
 }
 
 .tsugi-lessons-module-slides::before {
@@ -90,25 +99,25 @@
     display: inline-block;
     width: 2em;
     height: 2em;
-    content:"";
+    content: "";
     margin-right: 3px;
     vertical-align: middle;
 }
 
 .tsugi-lessons-module-slide {
-    list-style:none;
+    list-style: none;
 }
 
 .tsugi-lessons-module-slide a::before{
-        font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f1c4";
-        padding-right: 3px;
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f1c4";
+    padding-right: 3px;
 }
 
 .tsugi-lessons-module-lti {
-    list-style:none;
+    list-style: none;
 }
 
 .tsugi-lessons-module-lti::before{
-        font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f5ab";
-        padding-right: 3px;
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f5ab";
+    padding-right: 3px;
 }
