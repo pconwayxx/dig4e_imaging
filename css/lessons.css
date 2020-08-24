@@ -4,7 +4,6 @@
 }
 
 .tsugi-lessons-module-description {
-    /* background-image: */
     color: #555555;
     font-family: "Lusitana", Sans-Serif;
     font-weight: 400;
@@ -30,13 +29,12 @@
     padding: 5px 0px 5px 0px;
     list-style: none;
     text-align: left;
-    display: inline-block;
 }
 
 .tsugi-lessons-module-lecture-youtube a::before{
     background-image: url('Icons/Imaging_Icons/Video.png');
     background-size: 2em 2em;
-    /* display: inline-block; */
+    display: inline-block;
     display: block;
     width: 2em;
     height: 2em;
