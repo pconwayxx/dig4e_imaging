@@ -38,6 +38,7 @@
     width: 2em;
     height: 2em;
     content: "";
+    border: 5px none;
     margin-right: 3px;
     margin-bottom: 4px;
     vertical-align: middle;
