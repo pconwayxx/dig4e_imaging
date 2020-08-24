@@ -130,12 +130,6 @@
             "href" : "https://www.coursera.org/learn/html/lecture/6YX4i/02-04-template-page"
         }
     ],
-    "assignment" : [
-        {
-          "title" : "Hello World",
-          "href" : "https://www.google.com/"
-        }
-    ],
     "lti" : [
         {
         "title" : "Quiz: Tags",
