@@ -132,7 +132,8 @@
     ],
     "assignment" : [
         {
-          "title" : "Hello World"
+          "title" : "Hello World",
+          "href" : "https://www.google.com/"
         }
     ],
     "lti" : [
