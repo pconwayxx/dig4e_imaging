@@ -27,7 +27,7 @@
 {
     "title": "1. Vision and Digital Imaging",
     "anchor": "vision-and-digital-imaging",
-    "icon" : "fa-clone",
+    "icon" : url('Icons/Imaging_Icons/01.png'),
     "description": "We learn about visual perception and the digital encoding of reflected light.",
     "lectures": [
         {
