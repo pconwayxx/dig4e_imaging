@@ -29,18 +29,18 @@
     "anchor": "vision-and-digital-imaging",
     "icon" : "fa-clone",
     "description": "We learn about visual perception and the digital encoding of reflected light.",
-    "slides": [
+    "lectures": [
         {
             "title" : "Visual foundations",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Seeing on screen and in print",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Digital imaging terminology",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
     "references" : [
@@ -143,18 +143,18 @@
     "anchor": "physical-care-and-handling",
     "icon" : "fa-clone",
     "description": "We learn about handling materials safely and discuss myths about light exposure.",
-    "slides": [
+    "lectures": [
         {
             "title" : "Preservation storage",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Physical work environment",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Care and handling in the digitization workflow",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "audio" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
      ],
     "references" : [
@@ -193,22 +193,22 @@
     "anchor": "imaging-technology-options",
     "icon" : "fa-clone",
     "description": "We learn about the fundamentals of scanners, viewing conditions, and lighting.",
-    "slides": [
+    "lectures": [
         {
             "title" : "The digital scanning process",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Three types of scanners",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "audio" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Calibrating viewing monitors",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Scan control software",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
      ],
     "references" : [
@@ -255,18 +255,18 @@
     "anchor": "imaging-workflow",
     "icon" : "fa-clone",
     "description": "We consider imaging procedures and the ethics of producing archival quality images.",
-    "slides": [
+    "lectures": [
         {
             "title" : "Balancing the three factors of digitization project planning",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Digitization workflows at multiple levels of abstraction (from material flows to data flows)",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "audio" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Quality Management",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
         ],
     "references" : [
@@ -325,18 +325,18 @@
     "anchor": "system-performance",
     "icon" : "fa-clone",
     "description": "We explore assessing imaging system capabilities using standardized test charts.",
-    "slides": [
+    "lectures": [
         {
             "title" : "FADGI Digital Imaging Framework 2009",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Establishing quality levels",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "When good scanning goes bad",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
         ],
     "references" : [
@@ -400,22 +400,22 @@
     "anchor": "bits-and-bitmaps",
     "icon" : "fa-clone",
     "description": "We learn about specifying and measuring resolution and bit depth.",
-    "slides": [
+    "lectures": [
         {
             "title" : "What is a bitmap?",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Spatial frequency response in digital imaging standards and best practices",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Specifying resolution and bit depth for photographic prints and archival special collections",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "audio" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Measuring resolution capabilities of scanners – using OpenDICE.",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
         ],
     "references" : [
@@ -453,18 +453,18 @@
     "anchor": "tone-response",
     "icon" : "fa-clone",
     "description": "We learn about assessing image tone/exposure and white balance/neutrality.",
-    "slides":[
+    "lectures":[
         {
             "title" : "Tone response and white balance",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Tonal values for cultural heritage collections",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Measuring the capabilities of scanners to encode tone values accurately",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
         ],
     "references" : [
@@ -506,22 +506,22 @@
     "anchor": "color-accuracy",
     "icon" : "fa-clone",
     "description": "We introduce the fundamentals of visible color spaces and color encoding accuracy.",
-    "slides": [
+    "lectures": [
         {
             "title" : "Color theory 101",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "audio" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Color encoding accuracy and the quality of digital Imaging",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Specifying color encoding values for photographic prints and archival special collections",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Measuring capabilities of scanners to encode color values",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "audio" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
         ],
     "references" : [
@@ -576,18 +576,18 @@
     "anchor": "image-file-formats",
     "icon" : "fa-clone",
     "description": "We learn about the TIFF and JPEG2000 file formats.",
-    "slides": [
+    "lectures": [
         {
             "title" : "Sustainability factors for digital image master files",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "TIFF and JPG2000 compared/contrasted",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Options for access derivatives",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
         ],
     "references" : [
@@ -625,18 +625,18 @@
     "anchor": "image-processing",
     "icon" : "fa-clone",
     "description": "We explore ethics and techniques for normalizing master images and producing derivatives.",
-    "slides": [
+    "lectures": [
         {
             "title" : "An image artifacts model",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "audio" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "From archival to production master images",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "The ethics of post-scan image manipulation",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
         ],
     "references" : [
@@ -678,22 +678,22 @@
     "anchor": "image-metadata-standards",
     "icon" : "fa-clone",
     "description": "We learn to document the technical features of digital images.",
-    "slides": [
+    "lectures": [
         {
             "title" : "The meaning of technical metadata",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Technical metadata for still images",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Embedded versus external metadata",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Positioning digital images for long term access and use",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
         ],
     "references" : [
@@ -739,18 +739,18 @@
     "anchor": "costs-and-outsourcing",
     "icon" : "fa-clone",
     "description": "We learn how to estimate imaging costs and work with third-party vendors.",
-    "slides": [
+    "lectures": [
         {
             "title" : "Partnerships and project planning",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Contracting for digital imaging services",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "audio" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Featured vendor [tbd]",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
         ],
     "references" : [
@@ -797,22 +797,22 @@
     "anchor": "future-of-digital-imaging",
     "icon" : "fa-clone",
     "description": "We consider the technical trends that are changing digital imaging.",
-    "slides": [
+    "lectures": [
         {
             "title" : "Past predictions and present promise of digital imaging in the cultural heritage sector",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Technical trends: ISO standards, multispectral and 3D imaging",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Procedural trends: public/private partnerships",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "Organizational trends: ubiquitous imaging – getting the job done",
-            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+            "audio" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
         ],
     "references" : [
