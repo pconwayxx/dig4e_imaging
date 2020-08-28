@@ -25,7 +25,7 @@
 ],
 "modules": [
 {
-    "title": "Vision and Digital Imaging",
+    "title": "1. Vision and Digital Imaging",
     "anchor": "vision-and-digital-imaging",
     "icon" : "fa-clone",
     "description": "We learn about visual perception and the digital encoding of reflected light.",
@@ -74,7 +74,7 @@
     ]
 },
 {
-    "title": "Imaging Standards Overview",
+    "title": "2. Imaging Standards Overview",
     "anchor": "imaging-standards-overview",
     "icon" : "fa-clone",
     "description": "We learn about the state of international imaging standards and guidelines.",
@@ -139,7 +139,7 @@
     ]
 },
 {
-    "title": "Physical Care and Handling",
+    "title": "3. Physical Care and Handling",
     "anchor": "physical-care-and-handling",
     "icon" : "fa-clone",
     "description": "We learn about handling materials safely and discuss myths about light exposure.",
@@ -189,7 +189,7 @@
     ]
 },
 {
-    "title": "Imaging Technology Options",
+    "title": "4. Imaging Technology Options",
     "anchor": "imaging-technology-options",
     "icon" : "fa-clone",
     "description": "We learn about the fundamentals of scanners, viewing conditions, and lighting.",
@@ -251,7 +251,7 @@
     ]
 },
 {
-    "title": "Imaging Workflow",
+    "title": "5. Imaging Workflow",
     "anchor": "imaging-workflow",
     "icon" : "fa-clone",
     "description": "We consider imaging procedures and the ethics of producing archival quality images.",
@@ -321,7 +321,7 @@
     ]
 },
 {
-    "title": "System Performance",
+    "title": "6. System Performance",
     "anchor": "system-performance",
     "icon" : "fa-clone",
     "description": "We explore assessing imaging system capabilities using standardized test charts.",
@@ -396,7 +396,7 @@
     ]
 },
 {
-    "title": "Bits and Bitmaps",
+    "title": "7. Bits and Bitmaps",
     "anchor": "bits-and-bitmaps",
     "icon" : "fa-clone",
     "description": "We learn about specifying and measuring resolution and bit depth.",
@@ -449,7 +449,7 @@
     ]
 },
 {
-    "title": "Tone Response",
+    "title": "8. Tone Response",
     "anchor": "tone-response",
     "icon" : "fa-clone",
     "description": "We learn about assessing image tone/exposure and white balance/neutrality.",
@@ -502,7 +502,7 @@
     ]
 },
 {
-    "title": "Color Accuracy",
+    "title": "9. Color Accuracy",
     "anchor": "color-accuracy",
     "icon" : "fa-clone",
     "description": "We introduce the fundamentals of visible color spaces and color encoding accuracy.",
@@ -572,7 +572,7 @@
     ]
 },
 {
-    "title": "Image File Formats",
+    "title": "10. Image File Formats",
     "anchor": "image-file-formats",
     "icon" : "fa-clone",
     "description": "We learn about the TIFF and JPEG2000 file formats.",
@@ -621,7 +621,7 @@
     ]
 },
 {
-    "title": "Image Processing",
+    "title": "11. Image Processing",
     "anchor": "image-processing",
     "icon" : "fa-clone",
     "description": "We explore ethics and techniques for normalizing master images and producing derivatives.",
@@ -674,7 +674,7 @@
     ]
 },
 {
-    "title": "Image Metadata Standards",
+    "title": "12. Image Metadata Standards",
     "anchor": "image-metadata-standards",
     "icon" : "fa-clone",
     "description": "We learn to document the technical features of digital images.",
@@ -735,7 +735,7 @@
     ]
 },
 {
-    "title": "Costs and Outsourcing",
+    "title": "13. Costs and Outsourcing",
     "anchor": "costs-and-outsourcing",
     "icon" : "fa-clone",
     "description": "We learn how to estimate imaging costs and work with third-party vendors.",
@@ -793,7 +793,7 @@
     ]
 },
 {
-    "title": "Future of Digital Imaging",
+    "title": "14. Future of Digital Imaging",
     "anchor": "future-of-digital-imaging",
     "icon" : "fa-clone",
     "description": "We consider the technical trends that are changing digital imaging.",
