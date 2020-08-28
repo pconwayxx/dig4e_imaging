@@ -1,20 +1,20 @@
 /* Module Style */
 .tsugi-lessons-module-title {
     color: #9e4f00;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .tsugi-lessons-module-description {
     color: #555555;
     font-family: "Lusitana", Sans-Serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 24px;
 }
 
 .tsugi-lessons-module-lectures {
     color: #9e4f00;
     font-family: "Raleway", Sans-Serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 28px;
     list-style: none;
 }
@@ -61,7 +61,7 @@
 .tsugi-lessons-module-references {
     color: #9e4f00;
     font-family: "Raleway", Sans-Serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 28px;
     list-style: none;
 }
