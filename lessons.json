@@ -65,12 +65,7 @@
             "href" : "pages/html5/03_optional.php"
         }
     ],
-    "assignment" : [
-        {
-            "title": "test",
-            "href" : "www.google.com"
-        }
-    ],
+    "assignment" : "www.google.com",
     "lti" : [
         {
         "title" : "Quiz: HTML/Web Basics",
@@ -91,7 +86,7 @@
         },
         {
             "title" : "ISO imaging standards past and present",
-            "youtube" : "rVN1B-tUpgs"
+            "video" : "{apphome}/video/si511.mov"
         },
         {
             "title" : "Balancing standards, guidelines, and local practice @ scale",
