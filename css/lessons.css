@@ -108,13 +108,6 @@
     display: inline-block;
 }
 
-.tsugi-lessons-module-assignments {
-    color: #555555;
-    font-family: "Lusitana", Sans-serif;
-    font-size: 18px;
-    padding: 5px 0px 5px 0px;
-    list-style: none;
-}
 .tsugi-lessons-module-slides {
     list-style: none;
 }
