@@ -95,7 +95,26 @@
     margin-bottom: 4px;
     vertical-align: middle;
 }
+.tsugi-lessons-module-assignments {
+    color: #9e4f00;
+    font-family: "Raleway", Sans-Serif;
+    font-weight: 500;
+    font-size: 28px;
+    list-style: none;
+}
 
+.tsugi-lessons-module-assignments p {
+    padding: 25px 0px 25px 0px;
+    display: inline-block;
+}
+
+.tsugi-lessons-module-assignments {
+    color: #555555;
+    font-family: "Lusitana", Sans-serif;
+    font-size: 18px;
+    padding: 5px 0px 5px 0px;
+    list-style: none;
+}
 .tsugi-lessons-module-slides {
     list-style: none;
 }
