@@ -118,7 +118,7 @@
     margin-inline-end: 0px;
 }
 
-.tsugi-lessons-module-assignments {
+.tsugi-lessons-module-assignments p{
     color: #9e4f00;
     font-family: "Raleway", Sans-Serif;
     font-weight: 500;
@@ -126,7 +126,7 @@
     list-style: none;
 }
 
-.tsugi-lessons-module-assignments p{
+.tsugi-lessons-module-assignments ul{
     font-family: "Lusitana", Sans-serif;
     font-size: 18px;
     list-style: none;
