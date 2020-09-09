@@ -68,7 +68,12 @@
             "href" : "pages/html5/03_optional.php"
         }
     ],
-    "assignment" : "https://www.google.com",
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ],
     "lti" : [
         {
         "title" : "Quiz: HTML/Web Basics",
