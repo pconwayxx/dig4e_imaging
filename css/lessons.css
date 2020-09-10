@@ -11,6 +11,7 @@
     font-size: 24px;
 }
 
+/* Lectures */
 .tsugi-lessons-module-lectures {
     color: #9e4f00;
     font-family: "Raleway", Sans-Serif;
@@ -58,6 +59,7 @@
     vertical-align: middle;
 }
 
+/* References */
 .tsugi-lessons-module-references {
     color: #9e4f00;
     font-family: "Raleway", Sans-Serif;
@@ -76,10 +78,11 @@
 } */
 
 .tsugi-lessons-module-reference {
-    list-style:none;
     color: #555555;
     font-family: "Lusitana", Sans-serif;
     font-size: 18px;
+    padding: 5px 0px 5px 0px;
+    list-style: none;
 }
 
 /* .tsugi-lessons-module-reference a::before{
@@ -116,6 +119,7 @@
     vertical-align: middle;
 }
 
+/* Assignments */
 .tsugi-lessons-module-assignments p{
     color: #9e4f00;
     font-family: "Raleway", Sans-Serif;
@@ -132,6 +136,7 @@
     padding: 25px 0px 25px 0px;
 }
 
+/* Slides */
 .tsugi-lessons-module-slides {
     list-style: none;
 }
