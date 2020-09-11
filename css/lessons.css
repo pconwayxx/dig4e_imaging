@@ -101,7 +101,7 @@
 .tsugi-lessons-module-reference-icon {
     background-image: url('Icons/Imaging_Icons/Resource.png');
     background-size: 2em 2em;
-    display: inline-block;
+    display: block;
     width: 2em;
     height: 2em;
     content: "";
@@ -112,6 +112,7 @@
 
 .tsugi-lessons-module-reference-link {
     display: inline-block;
+    overflow: hidden;
     margin-block-start: 0.5em;
     margin-block-end: 0.5em;
     margin-inline-start: 0px;
