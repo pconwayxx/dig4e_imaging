@@ -71,6 +71,7 @@
  .tsugi-lessons-module-references p {
     padding: 25px 0px 25px 0px;
     display: inline-block;
+    width: 75%;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
@@ -79,6 +80,7 @@
 
 .tsugi-lessons-module-reference {
     color: #555555;
+    width: 75%;
     font-family: "Lusitana", Sans-serif;
     font-size: 18px;
     padding: 5px 0px 5px 0px;
@@ -90,10 +92,9 @@
     background-size: 2em 2em;
     display: inline-block;
     overflow: hidden;
-    width: 2em;
+    width: 25%;
     height: 2em;
     content: "";
-    border: hidden 10px 5px 10px 5px;
     margin-right: 3px;
     margin-bottom: 4px;
     vertical-align: middle;
