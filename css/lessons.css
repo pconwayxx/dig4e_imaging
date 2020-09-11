@@ -86,7 +86,7 @@
     padding: 5px 0px 5px 0px;
     list-style: none;
 }
-
+/*
  .tsugi-lessons-module-reference a::before{
     background-image: url('Icons/Imaging_Icons/Resource.png');
     background-size: 2em 2em;
@@ -99,7 +99,7 @@
     margin-bottom: 4px;
     vertical-align: middle;
 } 
-/*
+*/
 .tsugi-lessons-module-reference-icon {
     background-image: url('Icons/Imaging_Icons/Resource.png');
     background-size: 2em 2em;
@@ -111,7 +111,7 @@
     margin-bottom: 4px;
     vertical-align: middle;
 }
-*/
+
 .tsugi-lessons-module-reference-link {
     display: inline-block;
     overflow: hidden;
