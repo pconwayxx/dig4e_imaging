@@ -76,15 +76,15 @@
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 } 
-
+/*
 .tsugi-lessons-module-reference {
     color: #555555;
     font-family: "Lusitana", Sans-serif;
     font-size: 18px;
     padding: 5px 0px 5px 0px;
     list-style: none;
-}
-/*
+}*/
+
  .tsugi-lessons-module-reference a::before{
     background-image: url('Icons/Imaging_Icons/Resource.png');
     background-size: 2em 2em;
@@ -96,8 +96,8 @@
     margin-right: 3px;
     margin-bottom: 4px;
     vertical-align: middle;
-} */
-
+} 
+/*
 .tsugi-lessons-module-reference-icon {
     background-image: url('Icons/Imaging_Icons/Resource.png');
     background-size: 2em 2em;
@@ -109,7 +109,7 @@
     margin-bottom: 4px;
     vertical-align: middle;
 }
-
+*/
 .tsugi-lessons-module-reference-link {
     display: inline-block;
     overflow: hidden;
