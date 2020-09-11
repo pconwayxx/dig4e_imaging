@@ -103,7 +103,7 @@
 .tsugi-lessons-module-reference-icon {
     background-image: url('Icons/Imaging_Icons/Resource.png');
     background-size: 2em 2em;
-    display: block;
+    display: inline-block;
     width: 2em;
     height: 2em;
     content: "";
