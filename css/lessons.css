@@ -107,6 +107,7 @@
     width: 2em;
     height: 2em;
     content: "";
+    vertical-align: top;
 }
 
 .tsugi-lessons-module-reference-link {
@@ -117,6 +118,7 @@
     margin-block-end: 0.5em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+    vertical-align: top;
 }
 
 /* Assignments */
