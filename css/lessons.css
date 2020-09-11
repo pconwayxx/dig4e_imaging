@@ -68,14 +68,14 @@
     list-style: none;
 }
 
-/* .tsugi-lessons-module-references p {
+ .tsugi-lessons-module-references p {
     padding: 25px 0px 25px 0px;
     display: inline-block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-} */
+} 
 
 .tsugi-lessons-module-reference {
     color: #555555;
@@ -85,7 +85,7 @@
     list-style: none;
 }
 
-/* .tsugi-lessons-module-reference a::before{
+ .tsugi-lessons-module-reference a::before{
     background-image: url('Icons/Imaging_Icons/Resource.png');
     background-size: 2em 2em;
     display: inline-block;
@@ -96,7 +96,7 @@
     margin-right: 3px;
     margin-bottom: 4px;
     vertical-align: middle;
-} */
+} 
 
 .tsugi-lessons-module-reference-icon {
     background-image: url('Icons/Imaging_Icons/Resource.png');
