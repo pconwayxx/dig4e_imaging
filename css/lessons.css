@@ -29,7 +29,7 @@
     color: #555555;
     font-family: "Lusitana", Sans-serif;
     font-size: 18px;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.25em;
     list-style: none;
     vertical-align: top;
 }
@@ -42,7 +42,7 @@
     height: 2em;
     content: "";
     margin-right: .5em;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.25em;
     vertical-align: top;
 }
 
@@ -54,7 +54,7 @@
     height: 2em;
     content: "";
     margin-right: .5em;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.25em;
     vertical-align: top;
 }
 
@@ -103,7 +103,7 @@
     height: 2em;
     content: "";
     vertical-align: top;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.25em;
 }
 
 .tsugi-lessons-module-reference-link{
@@ -112,7 +112,7 @@
     width: 90%;
     vertical-align: top;
     margin-left: 0.5em;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.25em;
 }
 
 /* Assignments */
