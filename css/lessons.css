@@ -33,7 +33,7 @@
     font-family: "Lusitana", Sans-serif;
     font-size: 18px;
     font-weight: 500;
-    margin-bottom: 1.25em;
+    margin-bottom: 1em;
     list-style: none;
     vertical-align: top;
 }
@@ -46,7 +46,7 @@
     height: 2em;
     content: "";
     margin-right: .5em;
-    margin-bottom: 1.25em;
+    margin-bottom: 1em;
     vertical-align: top;
 }
 
@@ -58,7 +58,7 @@
     height: 2em;
     content: "";
     margin-right: .5em;
-    margin-bottom: 1.25em;
+    margin-bottom: 1em;
     vertical-align: top;
 }
 
