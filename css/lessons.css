@@ -9,6 +9,7 @@
     font-family: "Lusitana", Sans-Serif;
     font-weight: 500;
     font-size: 24px;
+    margin-bottom: 2em;
 }
 
 /* Lectures */
@@ -24,6 +25,7 @@
     vertical-align: top;
     display: inline-block;
     font-weight: 600;
+    margin-bottom: 2em;
 }
 
 .tsugi-lessons-module-lecture{
@@ -67,6 +69,7 @@
     font-weight: 600;
     font-size: 28px;
     list-style: none;
+    margin-bottom: 2em;
 }
 
  .tsugi-lessons-module-references p{
