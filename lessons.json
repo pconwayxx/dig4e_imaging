@@ -141,8 +141,12 @@
     ],
     "assignments" : [
         {
-            "title": "Assignment Test",
-            "href" : "www.google.com"
+            "title": "Resource",
+            "href" : "https://www.google.com"
+        },
+        {
+            "title": "Video",
+            "youtube" : "rVN1B-tUpgs"
         }
     ],    
     "lti" : [
