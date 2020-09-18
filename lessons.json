@@ -71,7 +71,7 @@
     "assignments" : [
         {
             "title": "Assignment Test",
-            "youtube" : "www.google.com"
+            "href" : "www.google.com"
         }
     ],
     "lti" : [
