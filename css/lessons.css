@@ -138,6 +138,30 @@
     padding: 25px 0px 25px 0px;
 }
 
+.tsugi-lessons-module-assignments-youtube a::before{
+    background-image: url('Icons/Imaging_Icons/Video.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+
+.tsugi-lessons-module-assignments-audio a::before{
+    background-image: url('Icons/Imaging_Icons/Audio.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+
 /* Slides */
 .tsugi-lessons-module-slides{
     list-style: none;
