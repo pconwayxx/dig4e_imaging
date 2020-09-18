@@ -122,17 +122,21 @@
 }
 
 /* Assignments */
+.tsugi-lessons-module-assignments{
+    list-style: none;
+}
+
 .tsugi-lessons-module-assignments p{
     color: #9e4f00;
     font-family: "Raleway", Sans-Serif;
     font-weight: 600;
     font-size: 28px;
-    list-style: none;
 }
 
 .tsugi-lessons-module-assignments ul{
     font-family: "Lusitana", Sans-serif;
     font-size: 18px;
+    list-style: none;
     display: inline-block;
     padding: 25px 0px 25px 0px;
 }
