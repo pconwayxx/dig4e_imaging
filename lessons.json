@@ -142,7 +142,7 @@
     "assignments" : [
         {
             "title": "Assignment Test",
-            "href" : "www.google.com"
+            "youtube" : "www.google.com"
         }
     ],    
     "lti" : [
