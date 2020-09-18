@@ -141,7 +141,7 @@
     padding: 25px 0px 25px 0px;
 }
 
-.tsugi-lessons-module-assignments_ul-youtube a::before{
+.tsugi-lessons-module-assignment-icon-youtube{
     background-image: url('Icons/Imaging_Icons/Video.png');
     background-size: 2em 2em;
     display: inline-block;
@@ -152,7 +152,29 @@
     margin-bottom: 1em;
     vertical-align: top;
 }
-
+.tsugi-lessons-module-assignment-icon-audio{
+    background-image: url('Icons/Imaging_Icons/Video.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+.tsugi-lessons-module-assignment-icon{
+    background-image: url('Icons/Imaging_Icons/Resource.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+/*
 .tsugi-lessons-module-assignments-audio a::before{
     background-image: url('Icons/Imaging_Icons/Audio.png');
     background-size: 2em 2em;
@@ -164,6 +186,7 @@
     margin-bottom: 1em;
     vertical-align: top;
 }
+*/
 
 /* Slides */
 .tsugi-lessons-module-slides{
