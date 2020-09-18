@@ -139,6 +139,12 @@
             "href" : "https://www.coursera.org/learn/html/lecture/6YX4i/02-04-template-page"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ],    
     "lti" : [
         {
         "title" : "Quiz: Tags",
@@ -184,6 +190,12 @@
             "href" : "https://www.coursera.org/learn/html/lecture/5HnFB/03-02-validating-your-site"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ], 
     "lti" : [
         {
         "title" : "Quiz: Hosting and Validation",
@@ -246,6 +258,12 @@
             "href" : "pages/css3/04_howe.php"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ], 
     "lti" : [
         {
         "title" : "Quiz: Styling Syntax and Theory",
@@ -316,6 +334,12 @@
             "href" : "lectures/02_css3/02_04-advanced_selectors.pdf"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ], 
     "lti" : [
         {
         "title" : "Quiz: Review (OPTIONAL)",
@@ -449,6 +473,12 @@
             "href" : "lectures/04_css3/04_03-accessible_navigation.pdf"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ], 
     "lti" : [
         {
         "title" : "Peer-graded Assignment",
@@ -502,6 +532,12 @@
             "href" : "lectures/01_js/01_01-intro_to_js.pdf"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ], 
     "lti" : [
         {
         "title" : "Quiz: Week 1",
@@ -567,6 +603,12 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/1cV0w/folder-structure-organizing-your-code"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ], 
     "lti" : [
         {
         "title" : "Peer-graded Assignment",
@@ -621,6 +663,12 @@
             "href" : "lectures/03_js/03_01-js_arrays.pdf"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ], 
     "lti" : [
         {
         "title" : "Quiz: JavaScript Review",
@@ -674,6 +722,12 @@
             "href" : "lectures/04_js/04_02-simple_validation.pdf"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ], 
     "lti" : [
         {
         "title" : "Peer-graded Assignment",
@@ -735,6 +789,12 @@
             "href" : "lectures/01_rd/01_02-what_is_rd.pdf"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ], 
     "lti" : [
         {
         "title" : "Quiz: Basic Concepts in Responsive Design Approaches",
@@ -788,6 +848,12 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/89Aoz/breakpoints"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ], 
     "lti" : [
         {
         "title" : "Peer-graded Assignment",
@@ -846,6 +912,12 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/OuZp6/bootstrap-breakpoints"
         }
     ],
+    "assignments" : [
+        {
+            "title": "Assignment Test",
+            "href" : "www.google.com"
+        }
+    ], 
     "lti" : [
         {
         "title" : "Peer-graded Assignment",
