@@ -141,7 +141,7 @@
     padding: 25px 0px 25px 0px;
 }
 
-.tsugi-lessons-module-assignment-icon-youtube{
+.tsugi-lessons-module-assignment-youtube a::before{
     background-image: url('Icons/Imaging_Icons/Video.png');
     background-size: 2em 2em;
     display: inline-block;
