@@ -141,7 +141,7 @@
     padding: 25px 0px 25px 0px;
 }
 
-.tsugi-lessons-module-assignments-icon-youtube{
+.tsugi-lessons-module-assignment-icon-youtube{
     background-image: url('Icons/Imaging_Icons/Video.png');
     background-size: 2em 2em;
     display: inline-block;
@@ -152,7 +152,7 @@
     margin-bottom: 1em;
     vertical-align: top;
 }
-.tsugi-lessons-module-assignments-icon-audio{
+.tsugi-lessons-module-assignment-icon-audio{
     background-image: url('Icons/Imaging_Icons/Audio.png');
     background-size: 2em 2em;
     display: inline-block;
@@ -163,7 +163,7 @@
     margin-bottom: 1em;
     vertical-align: top;
 }
-.tsugi-lessons-module-assignments-icon-href{
+.tsugi-lessons-module-assignment-icon-href{
     background-image: url('Icons/Imaging_Icons/Resource.png');
     background-size: 2em 2em;
     display: inline-block;
