@@ -139,6 +139,7 @@
     list-style: none;
     display: inline-block;
     padding: 25px 0px 25px 0px;
+    width: 90%;
 }
 
 .tsugi-lessons-module-assignment-youtube a::before{
