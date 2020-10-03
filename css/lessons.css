@@ -1,4 +1,12 @@
 /* Module Style */
+.tsugi-all-modules-image-icon {
+    width: 2em !important;
+}
+
+.tsugi-module-image-icon {
+    width: 3em !important;
+}
+
 .tsugi-lessons-module-title{
     color: #9e4f00;
     font-weight: 600;

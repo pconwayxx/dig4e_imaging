@@ -30,7 +30,7 @@
 {
     "title": "Vision and Digital Imaging",
     "anchor": "vision-and-digital-imaging",
-    "icon" : "css/Icons/Imaging_Icons/01.png",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/01.png",
     "description": "We learn about visual perception and the digital encoding of reflected light.",
     "lectures": [
         {
@@ -85,7 +85,7 @@
 {
     "title": "Imaging Standards Overview",
     "anchor": "imaging-standards-overview",
-    "icon" : "fa-clone",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/02.png",
     "description": "We learn about the state of international imaging standards and guidelines.",
     "lectures": [
         {
@@ -160,7 +160,7 @@
 {
     "title": "Physical Care and Handling",
     "anchor": "physical-care-and-handling",
-    "icon" : "fa-clone",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/03.png",
     "description": "We learn about handling materials safely and discuss myths about light exposure.",
     "lectures": [
         {
@@ -216,7 +216,7 @@
 {
     "title": "Imaging Technology Options",
     "anchor": "imaging-technology-options",
-    "icon" : "fa-clone",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/04.png",
     "description": "We learn about the fundamentals of scanners, viewing conditions, and lighting.",
     "lectures": [
         {
@@ -284,7 +284,7 @@
 {
     "title": "5. Imaging Workflow",
     "anchor": "imaging-workflow",
-    "icon" : "fa-clone",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/05.png",
     "description": "We consider imaging procedures and the ethics of producing archival quality images.",
     "lectures": [
         {
