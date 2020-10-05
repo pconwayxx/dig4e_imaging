@@ -360,7 +360,7 @@
 {
     "title": "System Performance",
     "anchor": "system-performance",
-    "icon" : "{apphome}/css/Icons/Imaging_Icons/06.png",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/06.png",
     "description": "We explore assessing imaging system capabilities using standardized test charts.",
     "lectures": [
         {
@@ -435,7 +435,7 @@
 {
     "title": "Bits and Bitmaps",
     "anchor": "bits-and-bitmaps",
-    "icon" : "{apphome}/css/Icons/Imaging_Icons/07.png",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/07.png",
     "description": "We learn about specifying and measuring resolution and bit depth.",
     "lectures": [
         {
@@ -494,7 +494,7 @@
 {
     "title": "Tone Response",
     "anchor": "tone-response",
-    "icon" : "{apphome}/css/Icons/Imaging_Icons/08.png",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/08.png",
     "description": "We learn about assessing image tone/exposure and white balance/neutrality.",
     "lectures":[
         {
@@ -553,7 +553,7 @@
 {
     "title": "Color Accuracy",
     "anchor": "color-accuracy",
-    "icon" : "{apphome}/css/Icons/Imaging_Icons/09.png",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/09.png",
     "description": "We introduce the fundamentals of visible color spaces and color encoding accuracy.",
     "lectures": [
         {
@@ -629,7 +629,7 @@
 {
     "title": "Image File Formats",
     "anchor": "image-file-formats",
-    "icon" : "{apphome}/css/Icons/Imaging_Icons/10.png",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/10.png",
     "description": "We learn about the TIFF and JPEG2000 file formats.",
     "lectures": [
         {
@@ -684,7 +684,7 @@
 {
     "title": "Image Processing",
     "anchor": "image-processing",
-    "icon" : "{apphome}/css/Icons/Imaging_Icons/11.png",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/11.png",
     "description": "We explore ethics and techniques for normalizing master images and producing derivatives.",
     "lectures": [
         {
@@ -743,7 +743,7 @@
 {
     "title": "Image Metadata Standards",
     "anchor": "image-metadata-standards",
-    "icon" : "{apphome}/css/Icons/Imaging_Icons/12.png",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/12.png",
     "description": "We learn to document the technical features of digital images.",
     "lectures": [
         {
@@ -810,7 +810,7 @@
 {
     "title": "Costs and Outsourcing",
     "anchor": "costs-and-outsourcing",
-    "icon" : "{apphome}/css/Icons/Imaging_Icons/13.png",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/13.png",
     "description": "We learn how to estimate imaging costs and work with third-party vendors.",
     "lectures": [
         {
@@ -874,7 +874,7 @@
 {
     "title": "Future of Digital Imaging",
     "anchor": "future-of-digital-imaging",
-    "icon" : "{apphome}/css/Icons/Imaging_Icons/14.png",
+    "image" : "{apphome}/css/Icons/Imaging_Icons/14.png",
     "description": "We consider the technical trends that are changing digital imaging.",
     "lectures": [
         {
