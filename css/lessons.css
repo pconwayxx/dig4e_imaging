@@ -3,6 +3,10 @@
     width: 4em !important;
 }
 
+.navbar-brand {
+    href: https://www.dig4e.com;  
+}
+
 .tsugi-module-image-icon {
     width: 4em !important;
 }
