@@ -45,6 +45,7 @@ if ( isset($_SESSION['id']) ) {
 }
 
 $set->addRight('Instructor', 'https://www.si.umich.edu/people/paul-conway');
+$set->addRight('Dig4E Home', 'https://www.dig4e.com');
 
 // Set the topNav for the session
 $OUTPUT->topNavSession($set);
