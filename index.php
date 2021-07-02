@@ -1,4 +1,5 @@
 <?php
+
 use \Tsugi\Util\Net;
 use \Tsugi\Core\LTIX;
 use \Tsugi\UI\Output;
