@@ -1,1 +1,28 @@
+/* Index style sheet */
+
+.page-title {
+    color: #9e4f00 !important;
+    font-family: "Raleway", Sans-Serif !important;
+    font-weight: 600 !important;
+    font-size: 28px !important;
+    list-style: none;
+}
+.decorative-bar {
+    margin-top: 0.5em ;
+    margin-bottom: 0.5em;
+    width: fit-content;
+    color: #9e4f00;
+    max-height: 4em;
+    min-height: 0.5em;
+}
+.unit-icon {
+    max-width: 150px;
+    max-height: 150px;
+}
+.container-grid {
+    display: grid;
+    grid-template-columns: 25% 75%; /*columns widths*/
+    height: 40vh;
+  }
+
 
