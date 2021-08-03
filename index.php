@@ -36,7 +36,7 @@ In the Dig4E Imaging module, you will learn about the present state of standards
 </div>
 <div id="container" style="dispalay: container; background-color: #9e4f00; height: 1em; margin-top: 1em; margin-bottom: 1em;">
 </div>
-<div id="grid-container" style ="display: grid; grid-template-columns: 50% 50%; grid-row-gap: 1em;">
+<div id="grid-container" style ="display: grid; grid-template-columns: 50% 50%; grid-row-gap: 1em;" hover="background-color: rgba(158, 79, 0, 0.2);">
 <a href="https://image.dig4e.com/lessons"><img src="https://image.dig4e.com/images/lessons.png" alt="Lessons Logo" style= "width: 10em; height 10em; position: inline; margin-left: 35%; margin-right: 35%; hover: #9E4F002E"/></a>
 <a href="https://image.dig4e.com/assignments"><img src="https://image.dig4e.com/images/quizzes.png" alt="Quizzes Logo" style= "width: 10em; height 10em; position: inline; margin-left: 35%; margin-right: 50%;"/></a>
 <a href="https://image.dig4e.com/lessons" style="color: #00274C; font-family: Raleway, Sans-Serif; font-weight: 500; font-size: 2em; position: inline; margin-left: 39%; margin-right: 46%; grid-column: 1; grid-row: 2">Lessons</a>
