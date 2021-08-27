@@ -23,6 +23,8 @@
         "image" : "00_hello_world.png",
         "threshold" : "0.0",
         "assignments" : [
+        ],
+        "quizzes" : [
         ]
     }
 ],

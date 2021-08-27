@@ -224,11 +224,61 @@
     padding-right: 3px;
 }
 
-.tsugi-lessons-module-lti{
+.tsugi-lessons-module-ltis {
     list-style: none;
 }
 
 .tsugi-lessons-module-lti::before{
     font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f5ab";
     padding-right: 3px;
+}
+
+/* Quizzes */
+.tsugi-lessons-module-quizzes{
+    color: #9e4f00;
+    font-family: "Raleway", Sans-Serif;
+    font-weight: 600;
+    font-size: 28px;
+    list-style: none;
+}
+
+.tsugi-lessons-module-quizzes p{
+    vertical-align: top;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+
+.tsugi-lessons-module-quizzes {
+    color: #555555;
+    font-family: "Lusitana", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 1em;
+    list-style: none;
+    vertical-align: top;
+}
+
+.tsugi-lessons-module-quizzes-youtube a::before{
+    background-image: url('Icons/Imaging_Icons/Video.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+
+.tsugi-lessons-module-quizzes-audio a::before{
+    background-image: url('Icons/Imaging_Icons/Audio.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
 }
