@@ -31,7 +31,7 @@ This video introduces Dig4E Imaging in the broader context of the risks and chal
 <div id="container" style="dispalay: container; background-color: #9e4f00; height: 1em; margin-top: 1em; margin-bottom: 1em;">
 </div>
 <div id="grid-container" style="display: grid; grid-template-columns: 30% 70%;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y6zaTkswuPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="200" src="https://www.youtube.com/embed/y6zaTkswuPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="color: #555555; font-family: Lusitana, Serif; font-weight: 500; font-size: 18px;grid-column: 2/2; padding-top: 1em;">This video introduces the Imaging Module in the broader context of the risks and challenges to cultural heritage preservation. The primary points are to call for action, with an emphasis on the critical value of archival quality imaging processes and the complexities of image literacy.  The video also introduces the top level learning goals for the Imaging module.</p>
 </div>
 <div id="container" style="dispalay: container; background-color: #9e4f00; height: 1em; margin-top: 1em; margin-bottom: 1em;">
