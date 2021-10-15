@@ -26,7 +26,7 @@ require_once "tsugi/admin/sanity-db.php";
 <div id="container" style="dispalay: container; background-color: #9e4f00; height: 1em; margin-top: 1em; margin-bottom: 1em;">
 </div>
 <div id="container" style= "color: #555555; font-family: Lusitana, Serif; font-weight: 500; font-size: 18px; margin-bottom: 1em;" >
-In the Dig4E Imaging module, you will learn about the present state of standards and recommended best practices for creating digital still images from photographic and graphic source materials.  In general, these same standards also apply to textual and other “flat” cultural heritage resources.  In most instances, the underlying technical standards for imaging are well-established and stable.  Imaging professionals, however, continue to debate the nuances of applying standards and guidelines in practice and may disagree on trends regarding emerging technologies.
+This video introduces Dig4E Imaging in the broader context of the risks and challenges to cultural heritage preservation. The primary point is a call for action, with an emphasis on the critical value of archival quality imaging processes and the complexities of image literacy. The video also outlines the learning goals and the lesson structure of Dig4E Imaging. 
 </div>
 <div id="container" style="dispalay: container; background-color: #9e4f00; height: 1em; margin-top: 1em; margin-bottom: 1em;">
 </div>
