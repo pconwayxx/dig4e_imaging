@@ -63,7 +63,7 @@
         },
         {
             "title" : "Kate Devlin, Alan Chalmers, & Erik Reinhard. “Displaying Digitally Archived Images.” IS&T Archiving 2004 Final Program and Proceedings, 157-162. PDF",
-            "href" : "lectures/01-vision_and_digital_imaging/devlin-chalmers-reinhard-displaying-digitally-archived-images-2004.pdf"
+            "href" : "IS&T Articles/arch2004-s34LDC-Devlin.pdf"
         },
         {
             "title" : "Appendix: Wikipedia Resources",
@@ -126,15 +126,15 @@
         },
         {
             "title" : "Dietmar Wueller & Ulla Bøgvad Kesjer. “Standardization of Image Quality Analysis – ISO 19264.” IS&T Archiving 2016 Final Program and Proceedings. April 2016, 111-116. PDF",
-            "href" : "lectures/02-imaging_standards_overview/wueller-kesjer-standardization-of-image-quality-analysis-2016.pdf"
+            "href" : "IS&T Articles/arch2016-s25LDC-Wueller.pdf"
         },
         {
             "title" : "W. Scott Geffert. “Transitioning to International Imaging Standards at the Metropolitan Museum of Art's Photograph Studio.” IS&T Archiving 2011 Final Program and Proceedings, 205-210. PDF",
-            "href" : "lectures/02-imaging_standards_overview/geffert-transitioning-to-international-imaging-standards-2011.pdf"
+            "href" : "IS&T Articles/arch2011-s46LDC-Geffert.pdf"
         },
         {
             "title" : "Don Williams. “A Decade of Experience with Digital Imaging Performance Guidelines.” IS&T Archiving 2017 Final Program and Proceedings, 165-169. PDF",
-            "href" : "lectures/02-imaging_standards_overview/williams-decade-of-experience-2017.pdf"
+            "href" : "IS&T Articles/arch2017-s33LDC-Williams.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -249,11 +249,11 @@
         },
         {
             "title" : "Peter Krogh. “Camera Scans – Using a Digital Camera as a Film Scanner.” IS&T Archiving 2009 Final Program and Proceedings, 164-168. PDF",
-            "href" : "lectures/04-imaging_technology_options/krogh-camera-scans-2009.pdf"
+            "href" : "IS&T Articles/arch2009-s34LDC-Krogh.pdf"
         },
         {
             "title" : "Yongli Zhou. “Fulfill Your Digital Preservation Goals with a Budget Studio.” IS&T Archiving 2016 Final Program and Proceedings, 38-44. PDF",
-            "href" : "lectures/04-imaging_technology_options/zhou-fulfill-your-digital-preservation-goals-2016.pdf"
+            "href" : "IS&T Articles/arch2016-s10LDC-Zhou.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -309,27 +309,27 @@
         },
         {
             "title" : "Peter Burns & Don Williams. 'Ten Tips for Maintaining Digital Image Quality.' IS&T Archiving 2007 Final Program and Proceedings Proceedings, 16-22. PDF",
-            "href" : "lectures/05-imaging_workflow/burns-williams-ten-tips-2007.pdf"
+            "href" : "IS&T Articles/arch2007-s5LDC-Burns.pdf"
         },
         {
             "title" : "Steffen Hankiewicz. “Dos and Don'ts for digitisation workflows.” IS&T Archiving 2018 Final Program and Proceedings, 99-104.",
-            "href" : "pages/css3/09_together.php"
+            "href" : "IS&T Articles/arch2018-s21LDC-Hankiewicz.pdf"
         },
         {
             "title" : "Rob Mildren. “Achieving Quality in Digitisation Workflow.” IS&T Archiving 2006 Final Program and Proceedings, 225-227.",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/YqFkK/02-02-code-together"
+            "href" : "IS&T Articles/arch2006-s51LDC-Mildren.pdf"
         },
         {
             "title" : "Nele Gabriëls, Leuven Dirk Kinnaes, Leuven Diederik Lanoye, Leuven Bruno Vandermeulen, & Mark Verbrugge. “Managing the Digitisation Chain.” IS&T Archiving 2019 Final Program and Proceedings, 17-20. PDF",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/VVJf3/02-03-styling-links-and-lists"
+            "href" : "IS&T Articles/arch2019-s05LDC-Gabriels.pdf"
         },
         {
             "title" : "Martina Hoffman. “Quality Assurance in Mass Digitization Projects.” IS&T Archiving 2016 Final Program and Proceedings, 107-110.",
-            "href" : "lectures/02_css3/02_03-styling_links_and_lists.pdf"
+            "href" : "IS&T Articles/arch2016-s24LDC-Hoffman.pdf"
         },
         {
             "title" : "Margot Knijn. “DIGITISE MORE, PAY LESS - Optimising the preparation for digitising large collections of images.” IS&T Archiving 2011 Final Program and Proceedings, 223-226.",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/dXukm/02-04-advanced-selectors"
+            "href" : "IS&T Articles/arch2011-s49LDC-Knijn.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -393,19 +393,19 @@
         },
         {
             "title" : "Don Willams & Peter D. Burns. “Preparing for the Image Literate Decade.” IS&T Archiving 2009 Final Program and Proceedings, 124-127. PDF",
-            "href" : "lectures/06-system_performance/williams-burns-image-literate-decade-2009.pdf"
+            "href" : "/IS&T Articles/arch2009-s26LDC-Williams.pdf"
         },
         {
             "title" : "Michael Stelmach & Don Williams. “When Good Scanning Goes Bad.” IS&T Archiving 2006 Final Program and Proceedings, 237-243. PDF",
-            "href" : "lectures/06-system_performance/stelmach-when-good-scanning-2006.pdf"
+            "href" : "IS&T Articles/arch2006-s54LDC-Stelmach.pdf"
         },
         {
             "title" : "Michael Horsley & John Berezich. “Implementing a Quality Assurance Plan for Monitoring Scanner Performance.” IS&T Archiving 2011 Final Program and Proceedings, 97-100.",
-            "href" : "lectures/03_css3/03_02-transitions.pdf"
+            "href" : "IS&T Articles/arch2011-s24LDC-Horsley.pdf"
         },
         {
             "title" : "Dietmar Wueller. “What if the image quality analysis rates my digitization system a ‘no go’?.” IS&T Archiving 2011 Final Program and Proceedings, 211-215.",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/9rzOu/03-03-transforms"
+            "href" : "IS&T Articles/arch2011-s47LDC-Wueller.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -523,11 +523,11 @@
         },
         {
             "title" : "Robert Buckley & Steven Puglia. “Report of the CIE Technical Committee on Archival Colour Imaging.” IS&T Archiving 2013 Final Program and Proceedings, 112-115.",
-            "href" : "pages/javascript/04_deadlines.php"
+            "href" : "IS&T Articles/arch2013-s25LDC-Buckley.pdf"
         },
         {
             "title" : "Robert W. G. Hunt. “The Importance of Being Not Too Earnest.” IS&T 11th Color and Imaging Conference Final Program and Proceedings. January 2003, 6-10.",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/EYX66/introduction"
+            "href" : "IS&T Articles/cic11-2003-s03LDC-Hunt.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -586,19 +586,19 @@
         },
         {
             "title" : "Natalie Russo, Allen Phillips, & Franziska Frey. “Demystifying Color Science.” IS&T Archiving 2006 Final Program and Proceedings, 12-15.",
-            "href" : "lectures/02_js/02_01-functions.pdf"
+            "href" : "IS&T Articles/arch2007-s4LDC-Russo.pdf"
         },
         {
             "title" : "Don Williams & Peter D. Burns. “Rethinking Image Color Correction, Validation and Testing.” IS&T Archiving 2016 Final Program and Proceedings, 175-180. PDF",
-            "href" : "lectures/09-color_accuracy/williams-burns-rethinking-image-color-correction-2016.pdf"
+            "href" : "IS&T Articles/arch2016-s38LDC-Williams.pdf"
         },
         {
             "title" : "F. Barry Wheeler & Michael J. Bennett. “Accurate Color?” IS&T Archiving 2011 Final Program and Proceedings, 87-91. PDF",
-            "href" : "lectures/09-color_accuracy/wheeler-bennett-accurate-color-2011.pdf"
+            "href" : "IS&T Articles/arch2011-s22LDC-Wheeler.pdf"
         },
         {
             "title" : "Don Williams & Peter D. Burns. “Capturing the Color of Black and White.” IS&T Archiving 2010 Final Program and Proceedings, 96-100. PDF",
-            "href" : "lectures/09-color_accuracy/williams-burns-capturing-the-color-2010.pdf"
+            "href" : "IS&T Articles/arch2010-s18LDC-Williams.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -654,11 +654,15 @@
         },
         {
             "title" : "Volker Heydegger. “Analysing the Impact of File Formats on Data Integrity.” IS&T Archiving 2008 Final Program and Proceedings, 50-55.",
-            "href" : "pages/javascript/19_arrays.php"
+            "href" : "IS&T Articles/arch2008-s11LDC-Heydegger.pdf"
+        },
+        {
+            "title" :"Peter Fornaro, Lukas Rosenthaler, and Erwin Zbinden. “TIFF in Archives: A survey about existing files in memory institutions.” IS&T Archiving 2017 Final Program and Proceedings. May 2017, 6-10.",
+            "href" : "IS&T Articles/arch2017-s03LDC-Fornaro.pdf"
         },
         {
             "title" : "Laurent Duplouy. “JPEG2000 as a preservation format for digitization.” IS&T Archiving 2017 Final Program and Proceedings, 157-159.",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/g8N8v/javascript-arrays"
+            "href" : "IS&T Articles/arch2017-s31LDC-Duplouy.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -713,7 +717,7 @@
         },
         {
             "title" : "Matthew Pearson. “Preservation Still Image Defects.” IS&T Archiving 2013 Final Program and Proceedings, 154.",
-            "href" : "lectures/04_js/04_01-simple_forms.pdf"
+            "href" : "IS&T Articles/arch2013-s33LDC-Pearson.pdf"
         },
         {
             "title" : "Stanford University Libraries. Quality Assurance - Image Defects. [permission required] PDF",
@@ -784,7 +788,7 @@
         },
         {
             "title" : "Kari R. Smith, Sarah Saunders, & Ulla Bøgvad Kejser. “Making the Case for Embedded Metadata in Digital Images.” IS&T Archiving 2014 Final Program and Proceedings, 52-57. PDF",
-            "href" : "lectures/12-image_metadata_standards/smith-saunders-kesjer-making-the-case.pdf"
+            "href" : "IS&T Articles/arch2014-s12LDC-Smith.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -843,7 +847,7 @@
         },
         {
             "title" : "Ulla Bøgvas Kesjer, Joy Davidson, David Wang, Stephan Strodl, Tomasz Miksa, Kathrine Hougaard Edsen Johansen, Anders Bo Nielsen, & Alex Thirifays. “State of the Art of Cost and Benefit Models for Digital Curation.” IS&T Archiving 2014 Final Program and Proceedings, 144-149.",
-            "href" : "lectures/02_rd/02_03-wireframes.pdf"
+            "href" : "IS&T Articles/arch2014-s31LDC-Kesjer.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -903,11 +907,11 @@
         },
         {
             "title" : "Harriett Green & Angela Courtney. “The Role of Digital Collections in Scholarly Communications.” IS&T Archiving 2016 Final Program and Proceedings, 193-196.",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/y9itO/introduction-to-twitter-bootstrap-3"
+            "href" : "IS&T Articles/arch2016-s41LDC-Green.pdf"
         },
         {
             "title" : "Seyed Ali Amirshahi & Marius Pederson. “Future Directions in Image Quality.” IS&T 27th Color and Imaging Conference Final Program and Proceedings. October 2019, 399-403.",
-            "href" : "lectures/03_rd/03_02-intro_to_bootstrap_3.pdf"
+            "href" : "IS&T Articles/cic27-2019-s71LDC-Amirshahi.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
