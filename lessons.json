@@ -601,6 +601,10 @@
             "href" : "IS&T Articles/arch2010-s18LDC-Williams.pdf"
         },
         {
+            "title" : "Robert Buckley, Steven Puglia, and Michael Stelmach. “Color in Digital Preservation.” IS&T Archiving 2011 Final Program and Proceedings. January 2011, 83-86",
+            "href" : "IS&T Articles/arch2011-s21LDC-Buckley.pdf"
+        },
+        {
             "title" : "Appendix: Wikipedia resources",
             "href" : "https://docs.google.com/document/d/1iEvxeBgUR4lfPL7eYmKJ8MHD8WkR5a8Z621W5T9a2fI/edit#bookmark=id.e8fg27jiafjw"
         }
@@ -791,6 +795,10 @@
             "href" : "IS&T Articles/arch2014-s12LDC-Smith.pdf"
         },
         {
+            "title" :"Martyn Jessop. “Metadata Creation for Digital Humanities Projects.” IS&T Archiving 2006 Final Program and Proceedings. January 2006, 84-87.",
+            "href" : "IS&T Articles/arch2006-s20LDC-Jessop.pdf"
+        },
+        {
             "title" : "Appendix: Wikipedia resources",
             "href" : "https://docs.google.com/document/d/1iEvxeBgUR4lfPL7eYmKJ8MHD8WkR5a8Z621W5T9a2fI/edit#bookmark=id.yy8bseijxpjx"
         }
@@ -848,6 +856,14 @@
         {
             "title" : "Ulla Bøgvas Kesjer, Joy Davidson, David Wang, Stephan Strodl, Tomasz Miksa, Kathrine Hougaard Edsen Johansen, Anders Bo Nielsen, & Alex Thirifays. “State of the Art of Cost and Benefit Models for Digital Curation.” IS&T Archiving 2014 Final Program and Proceedings, 144-149.",
             "href" : "IS&T Articles/arch2014-s31LDC-Kesjer.pdf"
+        },
+        {
+            "title" : "Virginia A. Dressler. “Digitally Archiving History: A game plan for large, unruly archival collections with limited staffing.” IS&T Archiving 2016 Final Program and Proceedings. January 2016, 75-80.",
+            "href" : "IS&T Articles/arch2016-s17LDC-Dressler.pdf"
+        },
+        {
+            "title" : "Long Schisler and Millard Wesley. “When Perfect is the Enemy of Good - Quality and Sustainability in Digitization Processes.” IS&T Archiving 2020 Final Program and Proceedings, 43-48. ",
+            "href" : "IS&T Articles/arch2020-s10LDC-Schisler.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -912,6 +928,18 @@
         {
             "title" : "Seyed Ali Amirshahi & Marius Pederson. “Future Directions in Image Quality.” IS&T 27th Color and Imaging Conference Final Program and Proceedings. October 2019, 399-403.",
             "href" : "IS&T Articles/cic27-2019-s71LDC-Amirshahi.pdf"
+        },
+        {
+            "title" : "Meghan Wilson, Fenella France, and Chris Bolser. “Multispectral Imaging for Scientific Analysis and Preservation of Cultural Heritage Materials.” IS&T Archiving 2018 Final Program and Proceedings, 147-150.",
+            "href" : "IS&T Articles/arch2018-s31LDC-Wilson.pdf"
+        },
+        {
+            "title" : "Scott Geffert et al. “From the Inside Out: Practical Application of 3D Imaging Techniques in Art Conservation.” IS&T Archiving 2018 Final Program and Proceedings, 151-156.",
+            "href" : "IS&T Articles/arch2018-s32LDC-Geffert.pdf"
+        },
+        {
+            "title" : "Jaroslav Valach, Petra Štefcová, and Ladislav Polák. “Development of a Multi-Disciplinary Database of Cuneiform Tablets – an Improvement of 3D Models and Data Re-use.” IS&T Archiving 2019 Final Program and Proceedings, 107-110.",
+            "href" : "IS&T Articles/arch2019-s24LDC-Valach.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
