@@ -400,11 +400,11 @@
             "href" : "IS&T Articles/arch2006-s54LDC-Stelmach.pdf"
         },
         {
-            "title" : "Michael Horsley & John Berezich. “Implementing a Quality Assurance Plan for Monitoring Scanner Performance.” IS&T Archiving 2011 Final Program and Proceedings, 97-100.",
+            "title" : "Michael Horsley & John Berezich. “Implementing a Quality Assurance Plan for Monitoring Scanner Performance.” IS&T Archiving 2011 Final Program and Proceedings, 97-100. PDF",
             "href" : "IS&T Articles/arch2011-s24LDC-Horsley.pdf"
         },
         {
-            "title" : "Dietmar Wueller. “What if the image quality analysis rates my digitization system a ‘no go’?.” IS&T Archiving 2011 Final Program and Proceedings, 211-215.",
+            "title" : "Dietmar Wueller. “What if the image quality analysis rates my digitization system a ‘no go’?.” IS&T Archiving 2011 Final Program and Proceedings, 211-215. PDF",
             "href" : "IS&T Articles/arch2011-s47LDC-Wueller.pdf"
         },
         {
@@ -420,13 +420,10 @@
         {
             "title" : "Instructions for downloading and configuring OpenDICE",
             "href" : "http://www.digitizationguidelines.gov/guidelines/digitize-OpenDice.html"
-        }
-    ],
-    "lti" : [
+        },
         {
-        "title" : "Quiz: Final Quiz",
-        "launch" : "mod/gift/",
-        "resource_link_id" : "css_05_quiz"
+            "title" : "Quiz: Lesson Six",
+            "href" : "https://image.dig4e.com/mod/gift/?PHPSESSID=909413039bf99c2c849e3b764c3fb56a"
         }
     ]
 },
