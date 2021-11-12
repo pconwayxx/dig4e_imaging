@@ -159,7 +159,7 @@
     "title": "Physical Care and Handling",
     "anchor": "physical-care-and-handling",
     "image" : "{apphome}/css/Icons/Imaging_Icons/03.png",
-    "description": "We learn about handling materials safely and discuss myths about light exposure.",
+    "description": "We learn about safely handling  materials for digitization.",
     "lectures": [
         {
             "title" : "Preservation storage",
@@ -188,6 +188,10 @@
             "href" : "https://www.loc.gov/preservation/care/scan.html"
         },
         {
+            "title": "Recommended Reading: Mary Lynn Ritzenthaler & Diane Vogt-O’Connor. Photographs: Archival Care and Management. Chicago: Society of American Archivists, 2006, pp. 350-375.",
+            "href" : "https://mysaa.archivists.org/nc__store?search=Mary+Lynn+Ritzenthaler.+Photographs%3A+Archival+Care+and+Management+"
+        },    
+        {
             "title" : "Appendix: Wikipedia resources",
             "href" : "https://docs.google.com/document/d/1iEvxeBgUR4lfPL7eYmKJ8MHD8WkR5a8Z621W5T9a2fI/edit#bookmark=id.24a580lo0ghk"
         }
@@ -196,6 +200,10 @@
         {
             "title": "Assignment Test",
             "href" : "www.google.com"
+        },
+        {
+            "title": "Image Permanence Institute (RIT). Graphics Atlas, 2021.",
+            "href": "http://www.graphicsatlas.org/"
         }
     ], 
     "lti" : [
@@ -262,7 +270,7 @@
     ],
     "assignments" : [
         {
-            "title": "Assignment Test",
+            "title": "Demystifying lighting damage in digitization.",
             "href" : "www.google.com"
         }
     ], 
@@ -326,10 +334,6 @@
         {
             "title" : "Martina Hoffman. “Quality Assurance in Mass Digitization Projects.” IS&T Archiving 2016 Final Program and Proceedings, 107-110.",
             "href" : "IS&T Articles/arch2016-s24LDC-Hoffman.pdf"
-        },
-        {
-            "title" : "Margot Knijn. “DIGITISE MORE, PAY LESS - Optimising the preparation for digitising large collections of images.” IS&T Archiving 2011 Final Program and Proceedings, 223-226.",
-            "href" : "IS&T Articles/arch2011-s49LDC-Knijn.pdf"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -600,6 +604,10 @@
         {
             "title" : "Robert Buckley, Steven Puglia, and Michael Stelmach. “Color in Digital Preservation.” IS&T Archiving 2011 Final Program and Proceedings. January 2011, 83-86",
             "href" : "IS&T Articles/arch2011-s21LDC-Buckley.pdf"
+        },
+        {
+            "title": "Sabine Susstrunk. “Color Encodings for Image Databases.” Proc. SPIE 4672, Internet Imaging III. PDF",
+            "href" : ""
         },
         {
             "title" : "Appendix: Wikipedia resources",
