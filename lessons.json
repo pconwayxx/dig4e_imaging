@@ -658,8 +658,8 @@
             "href" : "lectures/10-image_file_formats/FADGI-2016-11-23-25-33-35-64-66-70.pdf"
         },
         {
-            "title" : "Library of Congress. Sustainability of Digital Formats.",
-            "href" : "pages/javascript/18_sheet.php"
+            "title" : "Library of Congress. Sustainability of Digital Formats. TIFF, Revision 6.0",
+            "href" : "https://www.loc.gov/preservation/digital/formats/fdd/fdd000022.shtml"
         },
         {
             "title" : "Volker Heydegger. “Analysing the Impact of File Formats on Data Integrity.” IS&T Archiving 2008 Final Program and Proceedings, 50-55.",
@@ -672,6 +672,18 @@
         {
             "title" : "Laurent Duplouy. “JPEG2000 as a preservation format for digitization.” IS&T Archiving 2017 Final Program and Proceedings, 157-159.",
             "href" : "IS&T Articles/arch2017-s31LDC-Duplouy.pdf"
+        },
+        {
+            "title":"Library of Congress. Recommended Formats Statement: Still Image Works.",
+            "href": "https://www.loc.gov/preservation/resources/rfs/stillimg.html"
+        },
+        {
+            "title": "Library of Congress. Sustainability of Digital Formats. JPEG 2000 Part 1, Core Coding, Lossless Compression",
+            "href": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000139.shtml"
+        },
+        {
+            "title": "Library of Congress. Sustainability of Digital Formats. JPEG XL Image Encoding",
+            "href": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000536.shtml"
         },
         {
             "title" : "Appendix: Wikipedia resources",
@@ -722,14 +734,14 @@
         },
         {
             "title" : "Paul Conway. “Preserving Imperfection.” Preservation, Digital Technology and Culture 42.1 (2013): 17-30. PDF",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/2VjBX/simple-forms"
+            "href" : "lectures/11-image_processing/conway-preserving-imperfection.pdf"
         },
         {
             "title" : "Matthew Pearson. “Preservation Still Image Defects.” IS&T Archiving 2013 Final Program and Proceedings, 154.",
             "href" : "IS&T Articles/arch2013-s33LDC-Pearson.pdf"
         },
         {
-            "title" : "Stanford University Libraries. Quality Assurance - Image Defects. [permission required] PDF",
+            "title" : "Stanford University Libraries. Quality Assurance - Image Defects. PDF",
             "href" : "lectures/11-image_processing/stanford-image-artifacts.pdf"
         },
         {
@@ -804,6 +816,10 @@
             "href" : "IS&T Articles/arch2006-s20LDC-Jessop.pdf"
         },
         {
+            "title": "NISO Z39.87-2006 (r2017). Technical Metadata for Still Images",
+            "href": "http://groups.niso.org/apps/group_public/download.php/17937/ANSI-NISO%20Z39.87-2006%20%28R2017%29%2C%20Data%20Dictionary%20-%20Technical%20Metadata%20for%20Digital%20Still%20Images.pdf"
+        },
+        {
             "title" : "Appendix: Wikipedia resources",
             "href" : "https://docs.google.com/document/d/1iEvxeBgUR4lfPL7eYmKJ8MHD8WkR5a8Z621W5T9a2fI/edit#bookmark=id.yy8bseijxpjx"
         }
@@ -869,6 +885,22 @@
         {
             "title" : "Long Schisler and Millard Wesley. “When Perfect is the Enemy of Good - Quality and Sustainability in Digitization Processes.” IS&T Archiving 2020 Final Program and Proceedings, 43-48. ",
             "href" : "IS&T Articles/arch2020-s10LDC-Schisler.pdf"
+        },
+        {
+            "title": "NEDCC Preservation Leaflet 6.7. Outsourcing Venor Relations (Robin Dale).",
+            "href": "https://www.nedcc.org/free-resources/preservation-leaflets/6.-reformatting/6.7-outsourcing-and-vendor-relations"
+        },
+        {
+            "title": "Joyce Chapman and Samantha Leonard. Cost and benefit of quality control visual checks in large-sale digitization of archival manuscripts. Library Hi Tech 31 (3) 2013, pp. 405-418.",
+            "href": "lectures/13-costs_and_outsourcing/chapman-leonard-cost-of-quality-control-2013.pdf"
+        },
+        {
+            "title": "Millard Wesley Long Schisler. When perfect is the enemy of good: Quality and sustainability in digitization processes. IS&T Proceedings 2020. ",
+            "href": "lectures/13-costs_and_outsourcing/schisler-wesley-when-perfect-2020.pdf"
+        },
+        {
+            "title": "Alejandro Bia, Rafael Munoz and Jaime Gomez. DiCoMo: the digitization cost model. International Journal of Digital Libraries 11 (2010): 141-153. ",
+            "href":  "lectures/13-costs_and_outsourcing/bia-munoz-gomez-di-co-mo-2011.pdf" 
         },
         {
             "title" : "Appendix: Wikipedia resources",
