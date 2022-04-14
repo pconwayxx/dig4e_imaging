@@ -3,7 +3,7 @@
 {
 =snow
 ~humid and hot
-~tornadoes
+~hurricanes
 ~drought
 ~locust attack
 }
