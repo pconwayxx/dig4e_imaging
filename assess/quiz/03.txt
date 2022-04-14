@@ -1,5 +1,3 @@
-//Test Quiz
-
 ::Q1::What weather is typical for a Michigan winter?
 {
 =snow
