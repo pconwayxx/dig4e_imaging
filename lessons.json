@@ -82,9 +82,9 @@
     ],
     "lti" : [
         {
-        "title" : "Quiz: HTML/Web Basics",
-        "launch" : "mod/gift/",
-        "resource_link_id" : "html_01_quiz"
+        "title" : "Quiz: Vision Stuff",
+        "launch" : "mod/gift/?quiz=01.txt",
+        "resource_link_id" : "vision_01_quiz"
         }
     ]
 },
