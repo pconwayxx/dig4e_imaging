@@ -149,9 +149,9 @@
     ],    
     "lti" : [
         {
-        "title" : "Quiz: Tags",
-        "launch" : "mod/gift/",
-        "resource_link_id" : "html_02_quiz"
+        "title" : "Quiz: Lesson 2 Unit Quiz",
+        "launch" : "mod/gift/?quiz=03.txt",
+        "resource_link_id" : "imaging_02_quiz"
         }
     ]
 },
