@@ -1,1 +1,23 @@
-
+//Test Quiz
+::Q1::What weather is typical for a Michigan winter?
+{
+=snow
+~humid and hot
+~tornadoes
+~drought
+~locust attack
+}
+::Q2:: What color is the sky during a Michigan winter?
+{
+=grey
+~yellow
+~blue
+~red
+}
+::Q3:: What color is TinTin's hair?
+{
+=yellow
+~red
+~brown
+~black
+}
